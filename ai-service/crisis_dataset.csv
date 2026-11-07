@@ -1,0 +1,1501 @@
+type,affected_people,description,severity,log_people
+Flood,1819,no food or water and houses collapsed and houses collapsed,High,7.506591780070841
+Medical,2041,shortage of food and water and many deaths reported and roads destroyed,High,7.621684998724611
+Medical,289,minor damage and small area affected and situation under control,Low,5.66988092298052
+Earthquake,1081,some houses damaged and roads destroyed and urgent rescue needed,Medium,6.9865664594064265
+Hunger,2423,houses collapsed and roads destroyed and some houses damaged,High,7.793174347189205
+Fire,12850,houses collapsed and shortage of food and water and houses collapsed,High,9.461176908307142
+Flood,394,limited supplies needed and small area affected and small area affected,Low,5.978885764901122
+Hunger,3339,children trapped and no food or water and medical help needed,High,8.113726085970747
+Other,2481,some houses damaged and many families displaced and many families displaced,Medium,7.8168199657645525
+Medical,1296,urgent rescue needed and medical help needed and several people injured,Medium,7.167809184316444
+Earthquake,1284,hospital overwhelmed and medical help needed and medical help needed,Medium,7.158513997329321
+Earthquake,766,many families displaced and many families displaced and children trapped,Medium,6.642486801367256
+Medical,3081,thousands homeless and many deaths reported and houses collapsed,High,8.033334015880062
+Fire,9743,urgent rescue needed and medical help needed and many families displaced,High,9.184406989949679
+Other,9630,children trapped and houses collapsed and hospital overwhelmed,High,9.172742341560864
+Fire,7517,shortage of food and water and many deaths reported and thousands homeless,High,8.925055424124123
+Flood,376,situation under control and small area affected and minor damage,Low,5.932245187448011
+Other,502,roads are open and small area affected and roads are open,Low,6.220590170099739
+Hunger,545,few families need support and roads are open and limited supplies needed,Low,6.302618975744905
+Other,324,limited supplies needed and few families need support and few families need support,Low,5.783825182329737
+Earthquake,235,many families displaced and small area affected and minor damage,Low,5.4638318050256105
+Other,65,minor damage and minor damage and situation under control,Low,4.189654742026425
+Medical,8020,thousands homeless and thousands homeless and no food or water,High,8.989818381366925
+Flood,446,few families need support and limited supplies needed and several people injured,Low,6.102558594613569
+Flood,2986,urgent rescue needed and houses collapsed and no food or water,High,8.00202481821611
+Medical,5593,hospital overwhelmed and houses collapsed and houses collapsed,High,8.629449873761905
+Other,558,minor damage and small area affected and medical help needed,Low,6.326149473155099
+Earthquake,1842,shortage of food and water and medical help needed and medical help needed,Medium,7.519149957669823
+Medical,2476,medical help needed and hospital overwhelmed and many families displaced,Medium,7.814803429489359
+Other,18766,some houses damaged and roads partly blocked and children trapped,High,9.839855287291273
+Fire,87,minor damage and limited supplies needed and few families need support,Low,4.477336814478207
+Fire,257,minor damage and few families need support and roads are open,Low,5.552959584921617
+Hunger,9544,urgent rescue needed and roads destroyed and several people injured,High,9.163772736159848
+Medical,1495,many families displaced and houses collapsed and no food or water,Medium,7.310550158534422
+Hunger,5340,houses collapsed and urgent rescue needed and thousands homeless,High,8.58316818033977
+Other,10912,many deaths reported and hospital overwhelmed and houses collapsed,High,9.29771001811309
+Hunger,123,limited supplies needed and situation under control and small area affected,Low,4.820281565605037
+Hunger,7671,hospital overwhelmed and hospital overwhelmed and many deaths reported,High,8.945332616563274
+Other,438,minor damage and shortage of food and water and situation under control,Low,6.0844994130751715
+Other,457,few families need support and minor damage and several people injured,Low,6.126869184114185
+Fire,41,roads are open and few families need support and some houses damaged,Low,3.7376696182833684
+Flood,1665,shortage of food and water and some houses damaged and medical help needed,Medium,7.418180822726788
+Other,6064,no food or water and children trapped and many deaths reported,High,8.71028982137815
+Other,345,few families need support and limited supplies needed and situation under control,Low,5.846438775057725
+Other,115,minor damage and small area affected and medical help needed,Low,4.7535901911063645
+Hunger,1132,several people injured and urgent rescue needed and many families displaced,Medium,7.0326242610280065
+Hunger,2827,several people injured and roads partly blocked and many families displaced,Medium,7.947325027016463
+Hunger,187,situation under control and roads partly blocked and limited supplies needed,Low,5.236441962829949
+Medical,2683,many families displaced and roads partly blocked and many deaths reported,Medium,7.895063498091573
+Medical,1055,no food or water and houses collapsed and urgent rescue needed,High,6.962243464266207
+Hunger,5083,hospital overwhelmed and roads destroyed and hospital overwhelmed,High,8.533853632309345
+Earthquake,7286,roads destroyed and children trapped and hospital overwhelmed,High,8.893847217670283
+Fire,201,shortage of food and water and roads partly blocked and some houses damaged,Medium,5.308267697401205
+Medical,2011,roads partly blocked and several people injured and houses collapsed,Medium,7.60688453121963
+Fire,2919,some houses damaged and no food or water and shortage of food and water,Medium,7.979338895262328
+Earthquake,30,medical help needed and minor damage and limited supplies needed,Low,3.4339872044851463
+Earthquake,13582,no food or water and several people injured and many families displaced,High,9.51657428982249
+Earthquake,920,several people injured and many families displaced and many families displaced,Medium,6.825460036255307
+Earthquake,2103,roads partly blocked and medical help needed and several people injured,Medium,7.651595573857601
+Medical,18952,children trapped and thousands homeless and no food or water,High,9.8497175093263
+Hunger,18081,no food or water and houses collapsed and no food or water,High,9.802672247297311
+Hunger,1509,many families displaced and no food or water and shortage of food and water,Medium,7.31986492980897
+Earthquake,3104,urgent rescue needed and roads destroyed and medical help needed,High,8.040768994367578
+Fire,280,roads partly blocked and many families displaced and some houses damaged,Medium,5.638354669333745
+Medical,2404,roads partly blocked and shortage of food and water and some houses damaged,Medium,7.785305182539862
+Medical,318,several people injured and medical help needed and medical help needed,Medium,5.765191102784844
+Fire,551,medical help needed and limited supplies needed and several people injured,Low,6.313548046277095
+Earthquake,2091,hospital overwhelmed and shortage of food and water and some houses damaged,Medium,7.645875825184813
+Hunger,1926,many families displaced and several people injured and some houses damaged,Medium,7.563719668414366
+Other,75,limited supplies needed and many families displaced and small area affected,Low,4.330733340286331
+Fire,161,few families need support and roads are open and few families need support,Low,5.087596335232384
+Hunger,13087,roads partly blocked and houses collapsed and children trapped,High,9.479451058842528
+Flood,2570,hospital overwhelmed and medical help needed and several people injured,Medium,7.852050207265889
+Flood,253,some houses damaged and roads are open and roads are open,Low,5.537334267018537
+Hunger,550,situation under control and several people injured and few families need support,Low,6.311734809152915
+Flood,1975,several people injured and medical help needed and medical help needed,Medium,7.588829878307813
+Other,539,situation under control and roads are open and few families need support,Low,6.29156913955832
+Other,2626,shortage of food and water and many families displaced and medical help needed,Medium,7.87359778968554
+Medical,588,few families need support and few families need support and small area affected,Low,6.3784261836515865
+Earthquake,1653,some houses damaged and roads partly blocked and some houses damaged,Medium,7.4109518755836366
+Flood,17928,houses collapsed and roads destroyed and no food or water,High,9.794174792595427
+Medical,17083,many deaths reported and shortage of food and water and no food or water,High,9.745897631961357
+Other,2582,roads partly blocked and medical help needed and roads partly blocked,Medium,7.8567067930958405
+Hunger,2058,some houses damaged and several people injured and houses collapsed,Medium,7.629975707027789
+Fire,7066,several people injured and hospital overwhelmed and no food or water,High,8.863191340690854
+Earthquake,1678,many deaths reported and shortage of food and water and many families displaced,Medium,7.425953657077541
+Hunger,5137,thousands homeless and many families displaced and thousands homeless,High,8.544419177669829
+Medical,1595,many deaths reported and medical help needed and houses collapsed,Medium,7.3752557780097545
+Medical,503,several people injured and children trapped and some houses damaged,Medium,6.222576268071369
+Earthquake,126,few families need support and roads are open and roads are open,Low,4.844187086458591
+Medical,2013,roads partly blocked and some houses damaged and many families displaced,Medium,7.607878073278507
+Other,4251,no food or water and hospital overwhelmed and children trapped,High,8.355144739461839
+Earthquake,570,many families displaced and limited supplies needed and situation under control,Low,6.3473892096560105
+Earthquake,300,limited supplies needed and minor damage and situation under control,Low,5.707110264748875
+Fire,7482,no food or water and hospital overwhelmed and houses collapsed,High,8.920389060080359
+Earthquake,319,roads are open and few families need support and several people injured,Low,5.768320995793772
+Other,1848,roads partly blocked and medical help needed and many deaths reported,Medium,7.522400231387125
+Other,1520,many families displaced and many deaths reported and several people injured,Medium,7.327123292259293
+Fire,364,shortage of food and water and several people injured and some houses damaged,Medium,5.8998973535824915
+Fire,451,few families need support and few families need support and situation under control,Low,6.113682179832232
+Other,628,some houses damaged and medical help needed and medical help needed,Medium,6.444131256700441
+Flood,15903,some houses damaged and roads destroyed and many deaths reported,High,9.674325928896355
+Fire,16138,no food or water and thousands homeless and many deaths reported,High,9.688993982035823
+Hunger,567,some houses damaged and limited supplies needed and minor damage,Low,6.342121418721152
+Fire,8841,hospital overwhelmed and roads destroyed and many families displaced,High,9.087268374386188
+Flood,2853,medical help needed and some houses damaged and some houses damaged,Medium,7.956476798036782
+Medical,2134,roads partly blocked and no food or water and roads partly blocked,Medium,7.666221925662725
+Earthquake,3287,roads destroyed and hospital overwhelmed and hospital overwhelmed,High,8.098034756176071
+Hunger,17044,thousands homeless and urgent rescue needed and roads destroyed,High,9.743612184572003
+Hunger,972,shortage of food and water and shortage of food and water and medical help needed,Medium,6.880384082186005
+Hunger,489,few families need support and limited supplies needed and limited supplies needed,Low,6.194405391104672
+Medical,42,roads partly blocked and minor damage and few families need support,Low,3.7612001156935624
+Fire,472,shortage of food and water and limited supplies needed and minor damage,Low,6.159095388491933
+Hunger,1586,medical help needed and some houses damaged and roads partly blocked,Medium,7.369600720526409
+Hunger,2767,medical help needed and many families displaced and shortage of food and water,Medium,7.92588031673756
+Other,10416,houses collapsed and houses collapsed and houses collapsed,High,9.251194365984448
+Earthquake,1426,many families displaced and many families displaced and some houses damaged,Medium,7.2633296174768365
+Earthquake,1200,roads partly blocked and shortage of food and water and houses collapsed,Medium,7.0909098220799835
+Medical,8891,children trapped and hospital overwhelmed and many deaths reported,High,9.092907275084087
+Hunger,2975,many families displaced and some houses damaged and some houses damaged,Medium,7.998335395952982
+Medical,9195,hospital overwhelmed and medical help needed and houses collapsed,High,9.126523885883072
+Medical,590,situation under control and situation under control and several people injured,Low,6.3818160174060985
+Hunger,233,several people injured and many families displaced and several people injured,Medium,5.455321115357702
+Hunger,1142,some houses damaged and shortage of food and water and several people injured,Medium,7.04141166379481
+Other,5481,many deaths reported and thousands homeless and some houses damaged,High,8.60922527686273
+Earthquake,3953,urgent rescue needed and children trapped and urgent rescue needed,High,8.282483003730562
+Fire,9930,hospital overwhelmed and thousands homeless and hospital overwhelmed,High,9.203416456903359
+Hunger,4773,houses collapsed and shortage of food and water and roads destroyed,High,8.470939806898775
+Hunger,3959,many deaths reported and houses collapsed and hospital overwhelmed,High,8.283999304248526
+Medical,13172,shortage of food and water and urgent rescue needed and no food or water,High,9.485924559229828
+Flood,16213,hospital overwhelmed and houses collapsed and many families displaced,High,9.693630345547652
+Medical,675,children trapped and some houses damaged and several people injured,Medium,6.516193076042964
+Fire,14733,children trapped and houses collapsed and roads destroyed,High,9.59791302724276
+Flood,1717,medical help needed and some houses damaged and urgent rescue needed,Medium,7.4489161025442
+Other,12753,some houses damaged and many families displaced and thousands homeless,High,9.453600226875217
+Other,222,roads are open and minor damage and small area affected,Low,5.407171771460119
+Fire,215,roads partly blocked and small area affected and small area affected,Low,5.375278407684165
+Earthquake,2641,children trapped and roads partly blocked and shortage of food and water,Medium,7.879291485082271
+Other,31,some houses damaged and small area affected and minor damage,Low,3.4657359027997265
+Hunger,58,medical help needed and limited supplies needed and medical help needed,Low,4.07753744390572
+Fire,2631,no food or water and many families displaced and several people injured,Medium,7.875499292445208
+Hunger,16009,many deaths reported and medical help needed and roads destroyed,High,9.68096880599076
+Flood,17065,thousands homeless and many families displaced and children trapped,High,9.744843459096531
+Earthquake,286,roads are open and situation under control and roads are open,Low,5.659482215759621
+Hunger,15867,roads destroyed and several people injured and several people injured,High,9.672059781634221
+Fire,8045,no food or water and thousands homeless and houses collapsed,High,8.992930352509733
+Medical,1480,some houses damaged and several people injured and many families displaced,Medium,7.300472814267799
+Flood,100,limited supplies needed and small area affected and roads are open,Low,4.61512051684126
+Fire,11801,roads destroyed and roads destroyed and many deaths reported,High,9.376024287617113
+Fire,1479,roads partly blocked and shortage of food and water and shortage of food and water,Medium,7.299797366758161
+Hunger,574,situation under control and few families need support and roads are open,Low,6.354370040797351
+Other,19243,several people injured and hospital overwhelmed and some houses damaged,High,9.864954602819344
+Hunger,12135,children trapped and roads destroyed and several people injured,High,9.403931521028369
+Flood,4006,no food or water and thousands homeless and urgent rescue needed,High,8.295798110636145
+Other,1528,roads partly blocked and many families displaced and many deaths reported,Medium,7.332369205929062
+Flood,9916,roads destroyed and thousands homeless and no food or water,High,9.202005735186125
+Flood,12310,hospital overwhelmed and thousands homeless and hospital overwhelmed,High,9.418248450647615
+Earthquake,409,minor damage and some houses damaged and small area affected,Low,6.016157159698354
+Hunger,1543,thousands homeless and shortage of food and water and no food or water,Medium,7.342131730584722
+Fire,12605,several people injured and many families displaced and houses collapsed,High,9.441928170073055
+Fire,1958,several people injured and some houses damaged and many deaths reported,Medium,7.580189417944541
+Earthquake,2731,several people injured and many families displaced and many families displaced,Medium,7.912789220690681
+Medical,415,few families need support and limited supplies needed and situation under control,Low,6.030685260261263
+Flood,527,roads are open and situation under control and limited supplies needed,Low,6.269096283706261
+Earthquake,110,shortage of food and water and shortage of food and water and limited supplies needed,Low,4.709530201312334
+Earthquake,510,roads are open and few families need support and roads are open,Low,6.236369590203704
+Other,11590,urgent rescue needed and many families displaced and hospital overwhelmed,High,9.357984213888745
+Fire,430,many families displaced and medical help needed and urgent rescue needed,Medium,6.066108090103747
+Flood,2840,many families displaced and roads partly blocked and roads partly blocked,Medium,7.951911381854188
+Other,2344,no food or water and thousands homeless and many deaths reported,High,7.76004068088038
+Flood,1606,many families displaced and shortage of food and water and thousands homeless,Medium,7.382124365737512
+Fire,2341,some houses damaged and some houses damaged and some houses damaged,Medium,7.758760544157663
+Fire,2715,urgent rescue needed and many families displaced and roads destroyed,High,7.906915488678587
+Hunger,2889,roads partly blocked and some houses damaged and children trapped,Medium,7.969011781106478
+Hunger,2887,medical help needed and houses collapsed and medical help needed,Medium,7.968319500012717
+Hunger,5187,houses collapsed and roads destroyed and many deaths reported,High,8.554103545436334
+Hunger,938,some houses damaged and medical help needed and children trapped,Medium,6.844815479208263
+Flood,307,minor damage and roads are open and roads are open,Low,5.730099782973574
+Other,349,roads are open and medical help needed and shortage of food and water,Low,5.857933154483459
+Fire,6424,many deaths reported and no food or water and hospital overwhelmed,High,8.76795190976342
+Medical,8667,hospital overwhelmed and thousands homeless and no food or water,High,9.067393362656249
+Other,2536,medical help needed and medical help needed and medical help needed,Medium,7.838737559599282
+Earthquake,146,minor damage and situation under control and minor damage,Low,4.990432586778736
+Fire,5085,children trapped and children trapped and houses collapsed,High,8.534246945982066
+Medical,362,few families need support and roads partly blocked and few families need support,Low,5.8944028342648505
+Hunger,234,many families displaced and limited supplies needed and small area affected,Low,5.459585514144159
+Flood,298,few families need support and small area affected and few families need support,Low,5.700443573390687
+Fire,221,many families displaced and shortage of food and water and several people injured,Medium,5.402677381872279
+Fire,14869,some houses damaged and houses collapsed and medical help needed,High,9.6071010394542
+Fire,15978,medical help needed and many deaths reported and no food or water,High,9.679030639139388
+Earthquake,10544,urgent rescue needed and roads destroyed and several people injured,High,9.263407092912875
+Fire,374,roads partly blocked and roads are open and few families need support,Low,5.926926025970411
+Flood,2803,some houses damaged and many families displaced and many families displaced,Medium,7.938802248154481
+Earthquake,2891,roads partly blocked and some houses damaged and urgent rescue needed,Medium,7.969703583278656
+Hunger,6737,thousands homeless and thousands homeless and children trapped,High,8.815518423966498
+Other,473,shortage of food and water and shortage of food and water and situation under control,Low,6.161207321695077
+Fire,1831,roads partly blocked and many families displaced and shortage of food and water,Medium,7.513163545234075
+Hunger,395,some houses damaged and some houses damaged and medical help needed,Medium,5.981414211254481
+Medical,13669,children trapped and thousands homeless and hospital overwhelmed,High,9.522958929717996
+Other,439,roads partly blocked and small area affected and situation under control,Low,6.0867747269123065
+Flood,340,situation under control and limited supplies needed and limited supplies needed,Low,5.831882477283517
+Hunger,2031,urgent rescue needed and medical help needed and many families displaced,Medium,7.616775808698373
+Other,420,limited supplies needed and minor damage and roads partly blocked,Low,6.042632833682381
+Medical,2140,shortage of food and water and urgent rescue needed and many deaths reported,High,7.669028288589683
+Earthquake,15743,urgent rescue needed and houses collapsed and urgent rescue needed,High,9.664214619292034
+Hunger,2860,many families displaced and children trapped and medical help needed,Medium,7.95892649305011
+Flood,9577,thousands homeless and hospital overwhelmed and thousands homeless,High,9.167224080902555
+Flood,143,few families need support and several people injured and minor damage,Low,4.969813299576001
+Hunger,12384,hospital overwhelmed and children trapped and children trapped,High,9.42424134192346
+Fire,1118,no food or water and shortage of food and water and many families displaced,Medium,7.020190708311925
+Fire,2544,roads partly blocked and houses collapsed and roads destroyed,Medium,7.841885928984623
+Other,16684,roads destroyed and houses collapsed and some houses damaged,High,9.722265391185474
+Flood,15744,urgent rescue needed and roads partly blocked and children trapped,High,9.664278133535126
+Medical,519,minor damage and roads are open and shortage of food and water,Low,6.253828811575473
+Hunger,235,roads are open and minor damage and limited supplies needed,Low,5.4638318050256105
+Hunger,5101,houses collapsed and children trapped and children trapped,High,8.537387898701757
+Other,350,roads are open and many families displaced and several people injured,Low,5.860786223465865
+Hunger,7907,roads destroyed and many deaths reported and hospital overwhelmed,High,8.975630184290507
+Hunger,16825,roads destroyed and houses collapsed and children trapped,High,9.73068058811076
+Medical,2183,some houses damaged and some houses damaged and some houses damaged,Medium,7.688913336864796
+Hunger,14065,some houses damaged and houses collapsed and thousands homeless,High,9.551515816867964
+Hunger,465,minor damage and medical help needed and few families need support,Low,6.144185634125646
+Earthquake,340,limited supplies needed and small area affected and roads are open,Low,5.831882477283517
+Medical,1463,many families displaced and roads partly blocked and shortage of food and water,Medium,7.288927694521257
+Fire,366,some houses damaged and limited supplies needed and situation under control,Low,5.905361848054571
+Flood,4522,hospital overwhelmed and roads destroyed and roads destroyed,High,8.416930769477844
+Fire,580,roads partly blocked and few families need support and roads are open,Low,6.364750756851911
+Fire,2986,shortage of food and water and medical help needed and some houses damaged,Medium,8.00202481821611
+Hunger,5727,roads partly blocked and many deaths reported and shortage of food and water,High,8.653121708640482
+Hunger,16523,children trapped and children trapped and urgent rescue needed,High,9.712569148516655
+Medical,311,roads are open and roads are open and roads are open,Low,5.7430031878094825
+Medical,268,several people injured and roads destroyed and several people injured,Medium,5.594711379601839
+Other,1873,hospital overwhelmed and no food or water and thousands homeless,High,7.535830462798367
+Fire,394,several people injured and roads are open and minor damage,Low,5.978885764901122
+Flood,456,small area affected and small area affected and roads are open,Low,6.124683390894205
+Other,455,roads partly blocked and some houses damaged and medical help needed,Medium,6.1224928095143865
+Medical,11281,thousands homeless and urgent rescue needed and hospital overwhelmed,High,9.330963814299922
+Medical,7300,hospital overwhelmed and no food or water and hospital overwhelmed,High,8.895766604056085
+Other,1049,medical help needed and some houses damaged and several people injured,Medium,6.956545443151569
+Hunger,699,roads partly blocked and medical help needed and shortage of food and water,Medium,6.551080335043404
+Flood,1378,many families displaced and medical help needed and several people injured,Medium,7.229113877793302
+Earthquake,1027,some houses damaged and several people injured and many families displaced,Medium,6.93537044601511
+Other,8840,no food or water and many deaths reported and some houses damaged,High,9.087155271405804
+Medical,4294,children trapped and roads partly blocked and children trapped,High,8.365206834418355
+Other,2148,shortage of food and water and some houses damaged and several people injured,Medium,7.67275789664251
+Flood,592,limited supplies needed and minor damage and small area affected,Low,6.385194398997726
+Earthquake,348,medical help needed and shortage of food and water and some houses damaged,Medium,5.855071922202427
+Flood,310,minor damage and situation under control and limited supplies needed,Low,5.739792912179234
+Fire,17184,children trapped and thousands homeless and houses collapsed,High,9.751792189283934
+Earthquake,2079,several people injured and urgent rescue needed and roads partly blocked,Medium,7.640123172695364
+Earthquake,6750,roads destroyed and urgent rescue needed and several people injured,High,8.81744592104187
+Earthquake,148,small area affected and medical help needed and situation under control,Low,5.003946305945459
+Hunger,2585,many families displaced and some houses damaged and many families displaced,Medium,7.857867559331803
+Flood,16250,roads destroyed and hospital overwhelmed and hospital overwhelmed,High,9.69590972432601
+Fire,1104,shortage of food and water and medical help needed and roads partly blocked,Medium,7.007600613951853
+Medical,2449,roads partly blocked and shortage of food and water and several people injured,Medium,7.803843303538772
+Flood,18219,urgent rescue needed and roads partly blocked and roads partly blocked,High,9.810275170813949
+Earthquake,19766,children trapped and thousands homeless and shortage of food and water,High,9.89176915958193
+Fire,17017,roads partly blocked and many deaths reported and roads destroyed,High,9.742026886409503
+Fire,436,several people injured and several people injured and hospital overwhelmed,Medium,6.07993319509559
+Other,228,minor damage and limited supplies needed and many families displaced,Low,5.43372200355424
+Medical,37,small area affected and limited supplies needed and limited supplies needed,Low,3.6375861597263857
+Hunger,1766,medical help needed and several people injured and roads partly blocked,Medium,7.4770384723196965
+Other,361,roads partly blocked and small area affected and small area affected,Low,5.8916442118257715
+Flood,310,limited supplies needed and roads are open and small area affected,Low,5.739792912179234
+Medical,359,shortage of food and water and limited supplies needed and minor damage,Low,5.886104031450156
+Medical,1512,houses collapsed and many families displaced and many deaths reported,High,7.321849713788356
+Other,50,small area affected and minor damage and some houses damaged,Low,3.9318256327243257
+Other,594,roads are open and situation under control and small area affected,Low,6.38856140554563
+Fire,8243,hospital overwhelmed and roads partly blocked and children trapped,High,9.01724094201035
+Other,14998,many deaths reported and roads destroyed and urgent rescue needed,High,9.61573881119536
+Medical,14377,medical help needed and roads partly blocked and no food or water,High,9.573454539543818
+Other,791,many families displaced and medical help needed and shortage of food and water,Medium,6.674561391814426
+Earthquake,1244,several people injured and thousands homeless and many families displaced,Medium,7.126890808898808
+Other,7241,medical help needed and many deaths reported and no food or water,High,8.887652690325586
+Other,19312,no food or water and urgent rescue needed and many deaths reported,High,9.8685337232726
+Earthquake,125,few families need support and limited supplies needed and small area affected,Low,4.836281906951478
+Earthquake,2461,some houses damaged and roads partly blocked and some houses damaged,Medium,7.808729306744399
+Hunger,2300,medical help needed and thousands homeless and some houses damaged,Medium,7.741099090035366
+Hunger,325,roads are open and limited supplies needed and some houses damaged,Low,5.786897381366708
+Fire,19977,hospital overwhelmed and some houses damaged and no food or water,High,9.902386947092095
+Fire,2881,some houses damaged and medical help needed and several people injured,Medium,7.966239776559467
+Medical,16100,some houses damaged and several people injured and children trapped,High,9.686636660844938
+Other,2924,houses collapsed and many deaths reported and roads destroyed,High,7.981049759665957
+Other,241,shortage of food and water and roads partly blocked and minor damage,Low,5.488937726156687
+Other,16833,many deaths reported and roads partly blocked and many deaths reported,High,9.731155929771521
+Other,10002,hospital overwhelmed and several people injured and children trapped,High,9.21064032698518
+Flood,541,shortage of food and water and situation under control and situation under control,Low,6.295266001439646
+Flood,1728,medical help needed and several people injured and several people injured,Medium,7.455298485683291
+Other,37,medical help needed and few families need support and many families displaced,Low,3.6375861597263857
+Earthquake,3709,roads destroyed and urgent rescue needed and houses collapsed,High,8.21878715560148
+Flood,8528,thousands homeless and houses collapsed and hospital overwhelmed,High,9.05122740031911
+Fire,2078,some houses damaged and shortage of food and water and roads destroyed,High,7.639642287858013
+Hunger,171,roads are open and few families need support and roads are open,Low,5.147494476813453
+Medical,773,several people injured and roads partly blocked and some houses damaged,Medium,6.651571873589727
+Flood,452,minor damage and roads are open and few families need support,Low,6.115892125483034
+Flood,2797,medical help needed and some houses damaged and medical help needed,Medium,7.936660155225426
+Earthquake,2984,medical help needed and hospital overwhelmed and several people injured,Medium,8.001355025826703
+Flood,279,several people injured and small area affected and situation under control,Low,5.634789603169249
+Flood,574,hospital overwhelmed and some houses damaged and houses collapsed,Medium,6.354370040797351
+Medical,464,roads are open and minor damage and roads partly blocked,Low,6.142037405587356
+Fire,337,minor damage and few families need support and limited supplies needed,Low,5.823045895483019
+Earthquake,19741,roads destroyed and some houses damaged and thousands homeless,High,9.890503624977834
+Flood,176,few families need support and minor damage and small area affected,Low,5.176149732573829
+Other,17246,no food or water and children trapped and roads destroyed,High,9.7553934942914
+Fire,1756,some houses damaged and medical help needed and several people injured,Medium,7.471363088187097
+Earthquake,10844,no food or water and children trapped and urgent rescue needed,High,9.291459423260974
+Other,2792,roads partly blocked and some houses damaged and medical help needed,Medium,7.934871565945177
+Flood,2509,children trapped and roads partly blocked and thousands homeless,Medium,7.828038032125829
+Earthquake,15367,houses collapsed and roads destroyed and children trapped,High,9.640042704448392
+Hunger,8930,children trapped and roads destroyed and roads partly blocked,High,9.097283649683886
+Fire,1841,several people injured and many families displaced and some houses damaged,Medium,7.518607216815252
+Fire,3784,shortage of food and water and urgent rescue needed and roads partly blocked,High,8.23880116587155
+Fire,414,situation under control and few families need support and many families displaced,Low,6.028278520230698
+Earthquake,2291,roads partly blocked and roads partly blocked and some houses damaged,Medium,7.73718007783463
+Medical,2983,roads partly blocked and many deaths reported and some houses damaged,Medium,8.001019961323651
+Flood,675,several people injured and hospital overwhelmed and shortage of food and water,Medium,6.516193076042964
+Medical,12413,thousands homeless and thousands homeless and hospital overwhelmed,High,9.426580146973597
+Other,122,some houses damaged and limited supplies needed and limited supplies needed,Low,4.812184355372417
+Fire,183,situation under control and few families need support and few families need support,Low,5.214935757608986
+Earthquake,7107,roads destroyed and no food or water and roads destroyed,High,8.868976189274543
+Flood,1079,several people injured and many families displaced and roads partly blocked,Medium,6.984716320118266
+Hunger,338,many families displaced and few families need support and limited supplies needed,Low,5.82600010738045
+Fire,1791,roads partly blocked and urgent rescue needed and roads partly blocked,Medium,7.491087593534876
+Other,309,roads are open and shortage of food and water and small area affected,Low,5.736572297479192
+Flood,949,shortage of food and water and medical help needed and roads partly blocked,Medium,6.856461984594587
+Medical,960,roads partly blocked and several people injured and shortage of food and water,Medium,6.8679744089702925
+Earthquake,17044,children trapped and thousands homeless and urgent rescue needed,High,9.743612184572003
+Medical,144,medical help needed and roads are open and few families need support,Low,4.976733742420574
+Medical,14619,thousands homeless and houses collapsed and no food or water,High,9.59014573330377
+Flood,1325,some houses damaged and thousands homeless and medical help needed,Medium,7.189922170745808
+Fire,4709,hospital overwhelmed and urgent rescue needed and many deaths reported,High,8.457443187010464
+Medical,18902,roads destroyed and several people injured and hospital overwhelmed,High,9.847075918610166
+Medical,274,minor damage and minor damage and small area affected,Low,5.616771097666572
+Other,364,roads are open and small area affected and small area affected,Low,5.8998973535824915
+Flood,588,situation under control and small area affected and limited supplies needed,Low,6.3784261836515865
+Hunger,2545,roads partly blocked and several people injured and shortage of food and water,Medium,7.842278779117352
+Flood,1335,shortage of food and water and shortage of food and water and several people injured,Medium,7.197435354096591
+Earthquake,2969,shortage of food and water and some houses damaged and medical help needed,Medium,7.996317231796746
+Flood,2795,many families displaced and several people injured and some houses damaged,Medium,7.935945103353701
+Medical,1540,several people injured and thousands homeless and several people injured,Medium,7.340186835320115
+Flood,2389,medical help needed and medical help needed and some houses damaged,Medium,7.779048644925556
+Fire,2567,thousands homeless and several people injured and many families displaced,Medium,7.850882664809852
+Other,475,shortage of food and water and minor damage and few families need support,Low,6.16541785423142
+Other,140,situation under control and some houses damaged and some houses damaged,Low,4.948759890378168
+Flood,1723,several people injured and roads destroyed and several people injured,Medium,7.452402451223638
+Earthquake,15065,houses collapsed and medical help needed and roads partly blocked,High,9.62019582838564
+Fire,460,several people injured and minor damage and few families need support,Low,6.133398042996649
+Earthquake,16653,medical help needed and many families displaced and some houses damaged,High,9.720405706795765
+Earthquake,1767,shortage of food and water and several people injured and many deaths reported,Medium,7.477604243197589
+Other,6377,no food or water and children trapped and thousands homeless,High,8.760609847570002
+Flood,107,many families displaced and few families need support and few families need support,Low,4.68213122712422
+Earthquake,1214,many families displaced and roads partly blocked and roads partly blocked,Medium,7.102499355774649
+Other,309,several people injured and shortage of food and water and roads partly blocked,Medium,5.736572297479192
+Other,406,minor damage and small area affected and minor damage,Low,6.008813185442595
+Medical,77,minor damage and situation under control and roads partly blocked,Low,4.356708826689592
+Hunger,2437,medical help needed and many families displaced and houses collapsed,Medium,7.798933310041217
+Hunger,225,many families displaced and few families need support and limited supplies needed,Low,5.420534999272286
+Fire,14612,roads destroyed and roads partly blocked and children trapped,High,9.589666822474653
+Flood,1469,no food or water and shortage of food and water and medical help needed,Medium,7.293017679772782
+Other,3166,roads destroyed and no food or water and many families displaced,High,8.06054004653864
+Flood,2057,many families displaced and several people injured and shortage of food and water,Medium,7.629489916393995
+Flood,145,small area affected and situation under control and limited supplies needed,Low,4.983606621708336
+Earthquake,1723,hospital overwhelmed and many families displaced and many families displaced,Medium,7.452402451223638
+Medical,1314,some houses damaged and roads partly blocked and medical help needed,Medium,7.181591944611865
+Fire,1675,children trapped and some houses damaged and roads partly blocked,Medium,7.424165281042028
+Other,4779,many deaths reported and many families displaced and thousands homeless,High,8.472195825485501
+Medical,814,many deaths reported and several people injured and medical help needed,Medium,6.703188113240863
+Hunger,259,limited supplies needed and minor damage and minor damage,Low,5.560681631015528
+Other,2725,roads partly blocked and roads destroyed and medical help needed,High,7.9105906122564775
+Hunger,1540,thousands homeless and no food or water and some houses damaged,Medium,7.340186835320115
+Fire,8948,thousands homeless and no food or water and no food or water,High,9.099297073182859
+Flood,424,roads partly blocked and limited supplies needed and situation under control,Low,6.052089168924417
+Other,390,limited supplies needed and small area affected and small area affected,Low,5.968707559985366
+Medical,445,shortage of food and water and many families displaced and no food or water,Medium,6.100318952020064
+Medical,13205,houses collapsed and children trapped and roads destroyed,High,9.488426550754516
+Fire,586,several people injured and small area affected and situation under control,Low,6.375024819828097
+Other,1536,some houses damaged and shortage of food and water and houses collapsed,Medium,7.337587743538596
+Flood,173,situation under control and roads are open and small area affected,Low,5.159055299214529
+Hunger,2097,many families displaced and hospital overwhelmed and several people injured,Medium,7.6487397889562425
+Flood,8045,urgent rescue needed and several people injured and urgent rescue needed,High,8.992930352509733
+Fire,400,some houses damaged and shortage of food and water and roads destroyed,Medium,5.993961427306569
+Fire,2453,medical help needed and children trapped and many deaths reported,Medium,7.805474625270857
+Earthquake,207,situation under control and limited supplies needed and roads partly blocked,Low,5.337538079701318
+Flood,289,shortage of food and water and medical help needed and many families displaced,Medium,5.66988092298052
+Flood,374,many families displaced and roads destroyed and medical help needed,Medium,5.926926025970411
+Flood,1767,shortage of food and water and shortage of food and water and medical help needed,Medium,7.477604243197589
+Flood,256,few families need support and roads are open and minor damage,Low,5.54907608489522
+Medical,762,several people injured and roads partly blocked and roads partly blocked,Medium,6.637258031284457
+Medical,372,few families need support and roads are open and few families need support,Low,5.921578419643816
+Earthquake,306,shortage of food and water and hospital overwhelmed and thousands homeless,Medium,5.726847747587197
+Hunger,8627,houses collapsed and no food or water and many deaths reported,High,9.062768007509048
+Fire,402,small area affected and roads partly blocked and limited supplies needed,Low,5.998936561946683
+Hunger,1924,urgent rescue needed and children trapped and no food or water,High,7.562681246721884
+Fire,1465,many deaths reported and no food or water and many families displaced,Medium,7.290292882446597
+Medical,1022,no food or water and urgent rescue needed and urgent rescue needed,High,6.930494765951626
+Flood,156,small area affected and roads are open and minor damage,Low,5.056245805348308
+Other,2912,many families displaced and some houses damaged and children trapped,Medium,7.976938756959434
+Medical,16964,children trapped and urgent rescue needed and children trapped,High,9.73890767721833
+Hunger,1406,many deaths reported and roads partly blocked and roads partly blocked,Medium,7.249215057114389
+Earthquake,330,roads are open and roads are open and medical help needed,Low,5.802118375377063
+Hunger,84,situation under control and many families displaced and limited supplies needed,Low,4.442651256490317
+Other,12001,hospital overwhelmed and houses collapsed and houses collapsed,High,9.392828581549459
+Flood,2577,roads destroyed and roads destroyed and roads destroyed,High,7.8547691834991324
+Fire,1737,thousands homeless and roads partly blocked and several people injured,Medium,7.460490305825338
+Earthquake,467,many families displaced and situation under control and minor damage,Low,6.148468295917647
+Hunger,179,small area affected and roads are open and minor damage,Low,5.19295685089021
+Fire,2713,several people injured and children trapped and medical help needed,Medium,7.906178840394815
+Flood,108,small area affected and roads are open and limited supplies needed,Low,4.6913478822291435
+Hunger,10224,houses collapsed and roads partly blocked and thousands homeless,High,9.232590980911002
+Flood,374,many families displaced and limited supplies needed and few families need support,Low,5.926926025970411
+Flood,31,limited supplies needed and minor damage and minor damage,Low,3.4657359027997265
+Medical,2128,several people injured and several people injured and shortage of food and water,Medium,7.663407664893479
+Medical,1713,many deaths reported and medical help needed and some houses damaged,Medium,7.446585099157725
+Flood,5952,houses collapsed and some houses damaged and roads destroyed,High,8.69165057315339
+Earthquake,19140,medical help needed and roads destroyed and thousands homeless,High,9.859587910246109
+Earthquake,16606,roads destroyed and many deaths reported and children trapped,High,9.717579572206754
+Medical,182,small area affected and small area affected and medical help needed,Low,5.209486152841421
+Other,450,limited supplies needed and roads partly blocked and limited supplies needed,Low,6.111467339502679
+Flood,402,roads are open and situation under control and minor damage,Low,5.998936561946683
+Fire,18123,houses collapsed and children trapped and houses collapsed,High,9.804992305787028
+Fire,108,roads are open and few families need support and limited supplies needed,Low,4.6913478822291435
+Fire,2694,shortage of food and water and shortage of food and water and several people injured,Medium,7.899153483343097
+Medical,2270,urgent rescue needed and many deaths reported and hospital overwhelmed,High,7.7279755421055585
+Flood,1583,some houses damaged and medical help needed and several people injured,Medium,7.367708572374371
+Earthquake,142,limited supplies needed and situation under control and few families need support,Low,4.962844630259907
+Other,3925,shortage of food and water and roads destroyed and urgent rescue needed,High,8.275376374836407
+Fire,167,several people injured and small area affected and roads are open,Low,5.123963979403259
+Flood,6693,shortage of food and water and no food or water and many families displaced,High,8.808966881771273
+Other,1015,medical help needed and several people injured and several people injured,Medium,6.923628628138427
+Earthquake,386,few families need support and medical help needed and situation under control,Low,5.958424693029782
+Earthquake,1259,several people injured and many deaths reported and shortage of food and water,Medium,7.138866999945524
+Earthquake,8253,no food or water and roads destroyed and many deaths reported,High,9.018453210312527
+Earthquake,2851,many deaths reported and roads partly blocked and some houses damaged,Medium,7.955775781534187
+Other,10023,roads destroyed and thousands homeless and thousands homeless,High,9.212737496575905
+Other,2332,medical help needed and many families displaced and several people injured,Medium,7.75491027202143
+Fire,2851,some houses damaged and many families displaced and some houses damaged,Medium,7.955775781534187
+Other,1531,some houses damaged and several people injured and shortage of food and water,Medium,7.3343293503005365
+Earthquake,2860,roads destroyed and children trapped and thousands homeless,High,7.95892649305011
+Hunger,1914,several people injured and no food or water and several people injured,Medium,7.557472901614746
+Other,552,few families need support and limited supplies needed and situation under control,Low,6.315358001522335
+Other,576,many families displaced and limited supplies needed and roads are open,Low,6.3578422665081
+Other,348,small area affected and limited supplies needed and few families need support,Low,5.855071922202427
+Hunger,1267,medical help needed and medical help needed and houses collapsed,Medium,7.145196134997171
+Earthquake,2249,roads destroyed and medical help needed and children trapped,Medium,7.718685495198466
+Earthquake,355,roads are open and few families need support and several people injured,Low,5.87493073085203
+Flood,504,small area affected and minor damage and some houses damaged,Low,6.22455842927536
+Earthquake,595,few families need support and minor damage and medical help needed,Low,6.39024066706535
+Medical,14218,thousands homeless and many deaths reported and urgent rescue needed,High,9.562334377396374
+Hunger,548,several people injured and several people injured and limited supplies needed,Low,6.3080984415095305
+Hunger,728,hospital overwhelmed and many deaths reported and some houses damaged,Medium,6.591673732008658
+Other,2331,some houses damaged and several people injured and some houses damaged,Medium,7.754481547470383
+Hunger,971,roads destroyed and no food or water and shortage of food and water,Medium,6.879355804460439
+Other,27,small area affected and several people injured and minor damage,Low,3.332204510175204
+Other,1247,roads partly blocked and many deaths reported and several people injured,Medium,7.129297548929373
+Flood,123,few families need support and some houses damaged and small area affected,Low,4.820281565605037
+Other,14,limited supplies needed and roads partly blocked and roads are open,Low,2.70805020110221
+Earthquake,14724,houses collapsed and houses collapsed and houses collapsed,High,9.597302008519787
+Earthquake,2694,hospital overwhelmed and shortage of food and water and medical help needed,Medium,7.899153483343097
+Earthquake,361,shortage of food and water and medical help needed and many families displaced,Medium,5.8916442118257715
+Other,96,roads are open and small area affected and roads are open,Low,4.574710978503383
+Other,108,limited supplies needed and situation under control and minor damage,Low,4.6913478822291435
+Earthquake,45,situation under control and situation under control and minor damage,Low,3.828641396489095
+Flood,14,limited supplies needed and situation under control and few families need support,Low,2.70805020110221
+Hunger,4045,urgent rescue needed and medical help needed and thousands homeless,High,8.305484017727691
+Medical,2158,several people injured and shortage of food and water and many deaths reported,Medium,7.677400430514807
+Flood,431,few families need support and limited supplies needed and roads are open,Low,6.068425588244111
+Hunger,2704,children trapped and medical help needed and roads destroyed,Medium,7.902857191280582
+Flood,459,some houses damaged and no food or water and several people injured,Medium,6.131226489483141
+Fire,2342,roads partly blocked and no food or water and several people injured,Medium,7.759187438507795
+Other,13611,roads partly blocked and many deaths reported and shortage of food and water,High,9.518707035620796
+Medical,17247,houses collapsed and urgent rescue needed and hospital overwhelmed,High,9.755451473708725
+Fire,233,few families need support and small area affected and medical help needed,Low,5.455321115357702
+Medical,3884,thousands homeless and thousands homeless and many deaths reported,High,8.264878262801748
+Medical,427,roads partly blocked and many families displaced and roads are open,Low,6.059123195581797
+Hunger,17657,thousands homeless and urgent rescue needed and no food or water,High,9.778944217461527
+Hunger,2494,roads partly blocked and several people injured and medical help needed,Medium,7.822044008185619
+Flood,232,some houses damaged and situation under control and situation under control,Low,5.4510384535657
+Flood,2500,thousands homeless and several people injured and roads destroyed,High,7.824445930877619
+Hunger,205,medical help needed and small area affected and minor damage,Low,5.327876168789581
+Flood,2793,roads partly blocked and thousands homeless and roads partly blocked,Medium,7.935229539816907
+Earthquake,17345,several people injured and medical help needed and thousands homeless,High,9.7611172112444
+Earthquake,19958,shortage of food and water and several people injured and urgent rescue needed,High,9.901435448409996
+Medical,14718,no food or water and urgent rescue needed and thousands homeless,High,9.596894455192587
+Earthquake,427,limited supplies needed and limited supplies needed and situation under control,Low,6.059123195581797
+Other,19139,no food or water and hospital overwhelmed and children trapped,High,9.859535665006945
+Other,6826,urgent rescue needed and urgent rescue needed and roads destroyed,High,8.82864061741828
+Other,18494,roads destroyed and houses collapsed and shortage of food and water,High,9.825255704266555
+Other,62,shortage of food and water and limited supplies needed and minor damage,Low,4.143134726391533
+Hunger,7684,many deaths reported and thousands homeless and several people injured,High,8.947025655972697
+Fire,8350,roads destroyed and hospital overwhelmed and many deaths reported,High,9.03013657115323
+Medical,1906,several people injured and roads partly blocked and hospital overwhelmed,Medium,7.553286605600419
+Fire,458,limited supplies needed and limited supplies needed and roads are open,Low,6.129050210060545
+Other,7437,no food or water and children trapped and houses collapsed,High,8.914357274485015
+Earthquake,531,many families displaced and roads are open and small area affected,Low,6.2766434893416445
+Hunger,1184,children trapped and some houses damaged and hospital overwhelmed,High,7.077498053569231
+Fire,2453,several people injured and shortage of food and water and roads partly blocked,Medium,7.805474625270857
+Fire,168,roads are open and situation under control and small area affected,Low,5.1298987149230735
+Hunger,11848,no food or water and thousands homeless and many deaths reported,High,9.37999875481674
+Other,359,limited supplies needed and roads are open and minor damage,Low,5.886104031450156
+Hunger,13496,houses collapsed and hospital overwhelmed and roads partly blocked,High,9.510222717509283
+Fire,2283,many families displaced and several people injured and houses collapsed,Medium,7.7336835707759
+Earthquake,555,limited supplies needed and several people injured and small area affected,Low,6.320768294250582
+Medical,4405,roads destroyed and houses collapsed and children trapped,High,8.39072252736229
+Medical,344,many families displaced and some houses damaged and roads are open,Low,5.84354441703136
+Hunger,422,limited supplies needed and situation under control and several people injured,Low,6.0473721790462776
+Fire,11,roads are open and several people injured and limited supplies needed,Low,2.4849066497880004
+Hunger,519,several people injured and minor damage and few families need support,Low,6.253828811575473
+Medical,2906,children trapped and shortage of food and water and roads partly blocked,Medium,7.9748769005588755
+Other,790,several people injured and many families displaced and roads partly blocked,Medium,6.673297967767654
+Flood,47,roads partly blocked and roads are open and situation under control,Low,3.871201010907891
+Other,357,limited supplies needed and small area affected and shortage of food and water,Low,5.8805329864007
+Hunger,7367,several people injured and many deaths reported and thousands homeless,High,8.904901577935142
+Fire,3396,houses collapsed and no food or water and thousands homeless,High,8.130647968160584
+Hunger,725,shortage of food and water and houses collapsed and some houses damaged,Medium,6.587550014824796
+Medical,1544,some houses damaged and shortage of food and water and some houses damaged,Medium,7.3427791893318455
+Medical,890,no food or water and several people injured and medical help needed,Medium,6.792344427470809
+Hunger,750,some houses damaged and medical help needed and some houses damaged,Medium,6.621405651764134
+Fire,645,houses collapsed and shortage of food and water and shortage of food and water,Medium,6.470799503782602
+Other,2766,houses collapsed and roads partly blocked and roads partly blocked,Medium,7.925518979786926
+Medical,7971,hospital overwhelmed and thousands homeless and children trapped,High,8.983690681332686
+Medical,1114,roads partly blocked and some houses damaged and houses collapsed,Medium,7.016609683894219
+Hunger,2256,no food or water and roads partly blocked and roads partly blocked,Medium,7.721791776817535
+Medical,168,roads partly blocked and small area affected and few families need support,Low,5.1298987149230735
+Flood,1096,shortage of food and water and urgent rescue needed and several people injured,Medium,7.00033446027523
+Fire,374,few families need support and minor damage and situation under control,Low,5.926926025970411
+Other,538,situation under control and situation under control and roads are open,Low,6.289715570908998
+Medical,392,limited supplies needed and minor damage and few families need support,Low,5.973809611869261
+Fire,420,situation under control and few families need support and minor damage,Low,6.042632833682381
+Earthquake,15414,many families displaced and hospital overwhelmed and children trapped,High,9.64309634032025
+Hunger,126,few families need support and limited supplies needed and several people injured,Low,4.844187086458591
+Medical,1063,several people injured and many families displaced and shortage of food and water,Medium,6.96979066990159
+Fire,6279,roads partly blocked and roads partly blocked and shortage of food and water,High,8.745125259462244
+Earthquake,2316,roads partly blocked and several people injured and hospital overwhelmed,Medium,7.748028524432376
+Earthquake,464,few families need support and small area affected and few families need support,Low,6.142037405587356
+Earthquake,6959,hospital overwhelmed and several people injured and thousands homeless,High,8.847934753328465
+Fire,3255,roads destroyed and many families displaced and roads destroyed,High,8.08825472712243
+Fire,103,roads partly blocked and roads are open and minor damage,Low,4.6443908991413725
+Medical,138,roads are open and limited supplies needed and roads are open,Low,4.9344739331306915
+Hunger,377,medical help needed and medical help needed and medical help needed,Medium,5.934894195619588
+Fire,2559,children trapped and shortage of food and water and many families displaced,Medium,7.847762537473608
+Fire,2427,shortage of food and water and many deaths reported and many families displaced,Medium,7.794823152179389
+Flood,13288,urgent rescue needed and houses collapsed and several people injured,High,9.494691904331507
+Hunger,9562,roads destroyed and hospital overwhelmed and roads destroyed,High,9.165656764349542
+Medical,570,few families need support and roads partly blocked and situation under control,Low,6.3473892096560105
+Fire,1610,medical help needed and several people injured and no food or water,Medium,7.384610383176974
+Other,862,roads destroyed and roads partly blocked and several people injured,Medium,6.760414691083428
+Flood,6267,many deaths reported and children trapped and roads destroyed,High,8.74321260347591
+Flood,274,minor damage and limited supplies needed and few families need support,Low,5.616771097666572
+Other,18072,many deaths reported and children trapped and thousands homeless,High,9.802174390835638
+Earthquake,535,minor damage and roads are open and small area affected,Low,6.284134161070802
+Earthquake,2181,many deaths reported and houses collapsed and roads destroyed,High,7.687997166393016
+Other,1818,shortage of food and water and several people injured and many families displaced,Medium,7.506042178518122
+Hunger,19321,urgent rescue needed and hospital overwhelmed and no food or water,High,9.868999622077455
+Medical,2554,children trapped and many families displaced and roads partly blocked,Medium,7.845807502637805
+Hunger,679,some houses damaged and roads partly blocked and medical help needed,Medium,6.522092798170152
+Fire,2180,some houses damaged and medical help needed and roads partly blocked,Medium,7.687538766201629
+Medical,124,few families need support and small area affected and small area affected,Low,4.8283137373023015
+Medical,1646,many families displaced and some houses damaged and many families displaced,Medium,7.4067107301776405
+Other,1600,children trapped and some houses damaged and roads partly blocked,Medium,7.3783837129967145
+Earthquake,2998,shortage of food and water and shortage of food and water and shortage of food and water,Medium,8.00603417874901
+Earthquake,1138,shortage of food and water and some houses damaged and houses collapsed,Medium,7.037905963447182
+Flood,509,roads are open and few families need support and situation under control,Low,6.234410725718371
+Fire,1325,roads partly blocked and shortage of food and water and shortage of food and water,Medium,7.189922170745808
+Fire,438,roads are open and some houses damaged and limited supplies needed,Low,6.0844994130751715
+Medical,128,few families need support and minor damage and shortage of food and water,Low,4.859812404361672
+Fire,612,roads partly blocked and shortage of food and water and shortage of food and water,Medium,6.418364935936212
+Medical,2711,shortage of food and water and shortage of food and water and some houses damaged,Medium,7.905441649060286
+Medical,1345,roads partly blocked and no food or water and several people injured,Medium,7.204892510204673
+Earthquake,2474,medical help needed and children trapped and many families displaced,Medium,7.813995675002791
+Medical,516,several people injured and limited supplies needed and few families need support,Low,6.248042874508429
+Hunger,2502,many families displaced and several people injured and no food or water,Medium,7.8252452914317745
+Medical,2779,urgent rescue needed and some houses damaged and some houses damaged,Medium,7.930206206684683
+Flood,1886,no food or water and several people injured and shortage of food and water,Medium,7.54274354536855
+Hunger,1531,medical help needed and medical help needed and medical help needed,Medium,7.3343293503005365
+Hunger,16196,children trapped and urgent rescue needed and roads destroyed,High,9.692581318886397
+Flood,170,situation under control and situation under control and roads are open,Low,5.14166355650266
+Medical,9888,urgent rescue needed and thousands homeless and children trapped,High,9.19917830726999
+Earthquake,245,limited supplies needed and minor damage and few families need support,Low,5.5053315359323625
+Flood,70,few families need support and minor damage and roads are open,Low,4.2626798770413155
+Flood,273,minor damage and few families need support and small area affected,Low,5.6131281063880705
+Hunger,15521,children trapped and children trapped and several people injured,High,9.650013651414085
+Hunger,2150,roads partly blocked and roads partly blocked and several people injured,Medium,7.67368812926773
+Earthquake,15960,roads destroyed and hospital overwhelmed and thousands homeless,High,9.677903525682558
+Earthquake,3934,urgent rescue needed and children trapped and many deaths reported,High,8.277666160851503
+Earthquake,12268,many deaths reported and thousands homeless and thousands homeless,High,9.414831034791183
+Flood,1963,roads partly blocked and many families displaced and shortage of food and water,Medium,7.582738488914411
+Fire,1990,shortage of food and water and several people injured and medical help needed,Medium,7.596392304064196
+Hunger,86,small area affected and roads are open and limited supplies needed,Low,4.465908118654584
+Hunger,2856,some houses damaged and many families displaced and hospital overwhelmed,Medium,7.957527402230773
+Other,471,situation under control and few families need support and many families displaced,Low,6.156978985585555
+Flood,552,many families displaced and small area affected and limited supplies needed,Low,6.315358001522335
+Earthquake,97,medical help needed and few families need support and few families need support,Low,4.584967478670572
+Medical,329,shortage of food and water and roads destroyed and thousands homeless,Medium,5.799092654460526
+Earthquake,261,minor damage and several people injured and few families need support,Low,5.568344503761097
+Other,39,several people injured and roads are open and small area affected,Low,3.6888794541139363
+Medical,2991,some houses damaged and many deaths reported and roads partly blocked,Medium,8.003697339094368
+Flood,9300,hospital overwhelmed and many families displaced and no food or water,High,9.137877200242468
+Earthquake,449,small area affected and roads are open and shortage of food and water,Low,6.1092475827643655
+Flood,600,few families need support and small area affected and minor damage,Low,6.398594934535208
+Earthquake,516,roads partly blocked and limited supplies needed and some houses damaged,Low,6.248042874508429
+Earthquake,18575,children trapped and urgent rescue needed and urgent rescue needed,High,9.829625703937673
+Other,990,roads destroyed and shortage of food and water and many families displaced,Medium,6.898714534329988
+Other,1992,roads partly blocked and shortage of food and water and roads partly blocked,Medium,7.597396320212795
+Hunger,2118,roads partly blocked and roads partly blocked and children trapped,Medium,7.6586995582682995
+Hunger,1278,medical help needed and roads destroyed and many families displaced,Medium,7.153833801578843
+Hunger,8824,houses collapsed and roads destroyed and several people injured,High,9.085343881801498
+Fire,831,some houses damaged and some houses damaged and houses collapsed,Medium,6.723832440821209
+Earthquake,187,small area affected and shortage of food and water and roads partly blocked,Low,5.236441962829949
+Medical,17053,hospital overwhelmed and shortage of food and water and houses collapsed,High,9.744140059301994
+Earthquake,508,minor damage and limited supplies needed and roads partly blocked,Low,6.2324480165505225
+Medical,13093,many deaths reported and hospital overwhelmed and houses collapsed,High,9.479909389001037
+Flood,1084,many families displaced and no food or water and shortage of food and water,Medium,6.98933526597456
+Fire,259,small area affected and roads are open and minor damage,Low,5.560681631015528
+Fire,12729,roads destroyed and children trapped and roads destroyed,High,9.451716691551452
+Hunger,6183,thousands homeless and urgent rescue needed and urgent rescue needed,High,8.729720590267258
+Medical,2793,several people injured and shortage of food and water and shortage of food and water,Medium,7.935229539816907
+Fire,1240,medical help needed and medical help needed and many deaths reported,Medium,7.123672785204607
+Fire,266,some houses damaged and no food or water and some houses damaged,Medium,5.58724865840025
+Other,287,roads are open and roads are open and many families displaced,Low,5.662960480135946
+Hunger,839,urgent rescue needed and shortage of food and water and some houses damaged,Medium,6.733401891837359
+Fire,414,small area affected and limited supplies needed and few families need support,Low,6.028278520230698
+Medical,595,minor damage and situation under control and roads partly blocked,Low,6.39024066706535
+Flood,429,some houses damaged and medical help needed and many families displaced,Medium,6.063785208687608
+Other,16,limited supplies needed and situation under control and situation under control,Low,2.833213344056216
+Fire,5901,no food or water and several people injured and roads destroyed,High,8.683046555502886
+Fire,2556,shortage of food and water and medical help needed and urgent rescue needed,Medium,7.846589975291186
+Medical,590,roads are open and minor damage and few families need support,Low,6.3818160174060985
+Earthquake,5419,no food or water and no food or water and no food or water,High,8.597851094433691
+Flood,277,situation under control and roads are open and several people injured,Low,5.627621113690637
+Medical,1696,some houses damaged and several people injured and hospital overwhelmed,Medium,7.436617265234227
+Hunger,457,few families need support and shortage of food and water and some houses damaged,Low,6.126869184114185
+Other,92,many families displaced and roads are open and situation under control,Low,4.532599493153256
+Hunger,118,few families need support and shortage of food and water and small area affected,Low,4.77912349311153
+Fire,540,roads are open and limited supplies needed and limited supplies needed,Low,6.293419278846481
+Other,1602,many deaths reported and many deaths reported and hospital overwhelmed,High,7.3796321526095525
+Medical,13,several people injured and limited supplies needed and minor damage,Low,2.6390573296152584
+Hunger,400,few families need support and limited supplies needed and some houses damaged,Low,5.993961427306569
+Fire,2377,no food or water and medical help needed and several people injured,Medium,7.774015077250727
+Flood,258,situation under control and few families need support and minor damage,Low,5.556828061699537
+Other,1641,some houses damaged and roads partly blocked and many families displaced,Medium,7.403670290012373
+Hunger,13686,many deaths reported and hospital overwhelmed and urgent rescue needed,High,9.524201756211266
+Other,762,roads destroyed and several people injured and several people injured,Medium,6.637258031284457
+Earthquake,14675,children trapped and hospital overwhelmed and urgent rescue needed,High,9.593968785475173
+Fire,739,shortage of food and water and several people injured and shortage of food and water,Medium,6.606650186198215
+Other,2345,medical help needed and shortage of food and water and roads partly blocked,Medium,7.76046702921342
+Hunger,74,limited supplies needed and some houses damaged and small area affected,Low,4.31748811353631
+Flood,11442,roads destroyed and hospital overwhelmed and hospital overwhelmed,High,9.345133468317714
+Earthquake,114,many families displaced and roads are open and roads are open,Low,4.74493212836325
+Fire,8566,no food or water and urgent rescue needed and medical help needed,High,9.055672891964043
+Fire,485,situation under control and medical help needed and small area affected,Low,6.186208623900494
+Earthquake,236,many families displaced and few families need support and limited supplies needed,Low,5.4680601411351315
+Earthquake,72,medical help needed and few families need support and few families need support,Low,4.290459441148391
+Medical,419,roads are open and few families need support and few families need support,Low,6.040254711277414
+Other,19741,many deaths reported and thousands homeless and many deaths reported,High,9.890503624977834
+Fire,555,limited supplies needed and medical help needed and limited supplies needed,Low,6.320768294250582
+Earthquake,303,situation under control and situation under control and few families need support,Low,5.717027701406222
+Fire,423,shortage of food and water and several people injured and several people injured,Medium,6.049733455231958
+Flood,6890,children trapped and urgent rescue needed and children trapped,High,8.837971491357209
+Fire,1027,many families displaced and several people injured and several people injured,Medium,6.93537044601511
+Other,131,several people injured and situation under control and several people injured,Low,4.882801922586371
+Other,2295,shortage of food and water and medical help needed and children trapped,Medium,7.738923757439457
+Fire,2901,shortage of food and water and shortage of food and water and many families displaced,Medium,7.973155433444133
+Hunger,1467,medical help needed and shortage of food and water and children trapped,Medium,7.291656209174461
+Flood,264,medical help needed and roads are open and roads are open,Low,5.579729825986222
+Earthquake,1088,medical help needed and medical help needed and many deaths reported,Medium,6.9930151229329605
+Fire,289,roads are open and small area affected and shortage of food and water,Low,5.66988092298052
+Other,362,many families displaced and roads are open and minor damage,Low,5.8944028342648505
+Flood,431,small area affected and roads are open and limited supplies needed,Low,6.068425588244111
+Fire,19421,medical help needed and urgent rescue needed and houses collapsed,High,9.8741617231543
+Hunger,1709,many families displaced and roads partly blocked and thousands homeless,Medium,7.444248649496705
+Flood,286,few families need support and limited supplies needed and minor damage,Low,5.659482215759621
+Fire,546,few families need support and roads are open and limited supplies needed,Low,6.304448802421981
+Medical,2693,some houses damaged and roads partly blocked and shortage of food and water,Medium,7.898782356970309
+Fire,17265,thousands homeless and children trapped and no food or water,High,9.756494528795468
+Hunger,7342,many families displaced and houses collapsed and no food or water,High,8.90150275745161
+Medical,14567,some houses damaged and no food or water and shortage of food and water,High,9.586582621407445
+Hunger,9336,hospital overwhelmed and urgent rescue needed and houses collapsed,High,9.141740280483926
+Hunger,12185,many deaths reported and no food or water and urgent rescue needed,High,9.40804303080844
+Medical,16548,children trapped and thousands homeless and urgent rescue needed,High,9.714080956018943
+Medical,429,some houses damaged and several people injured and roads partly blocked,Medium,6.063785208687608
+Earthquake,596,situation under control and shortage of food and water and minor damage,Low,6.391917113392602
+Medical,2766,shortage of food and water and medical help needed and houses collapsed,Medium,7.925518979786926
+Other,1488,some houses damaged and medical help needed and some houses damaged,Medium,7.305860032684009
+Hunger,1085,shortage of food and water and many deaths reported and many families displaced,Medium,6.990256500493881
+Fire,302,roads partly blocked and urgent rescue needed and several people injured,Medium,5.713732805509369
+Hunger,11726,many families displaced and children trapped and many deaths reported,High,9.369649154461065
+Medical,2339,hospital overwhelmed and several people injured and many families displaced,Medium,7.757906208351747
+Medical,388,hospital overwhelmed and hospital overwhelmed and shortage of food and water,Medium,5.963579343618446
+Earthquake,988,roads partly blocked and medical help needed and some houses damaged,Medium,6.8966943316227125
+Earthquake,285,roads partly blocked and minor damage and situation under control,Low,5.655991810819852
+Hunger,9881,several people injured and no food or water and some houses damaged,High,9.198470199405696
+Hunger,18713,children trapped and several people injured and medical help needed,High,9.837027185835858
+Flood,441,limited supplies needed and roads are open and limited supplies needed,Low,6.091309882077698
+Medical,12653,no food or water and houses collapsed and thousands homeless,High,9.44572864970683
+Earthquake,4044,thousands homeless and some houses damaged and thousands homeless,High,8.305236829492593
+Earthquake,1116,hospital overwhelmed and medical help needed and urgent rescue needed,Medium,7.018401799069201
+Medical,2196,thousands homeless and thousands homeless and shortage of food and water,Medium,7.69484807238461
+Hunger,2675,roads partly blocked and houses collapsed and several people injured,Medium,7.892078421248119
+Hunger,550,roads are open and roads are open and small area affected,Low,6.311734809152915
+Medical,470,several people injured and medical help needed and some houses damaged,Medium,6.154858094016418
+Other,8738,several people injured and several people injured and thousands homeless,High,9.075551045627543
+Fire,479,minor damage and small area affected and few families need support,Low,6.173786103901937
+Fire,116,roads are open and few families need support and limited supplies needed,Low,4.762173934797756
+Flood,3966,children trapped and many deaths reported and children trapped,High,8.28576542051433
+Fire,1393,roads partly blocked and shortage of food and water and some houses damaged,Medium,7.2399325913204695
+Fire,2983,medical help needed and some houses damaged and roads partly blocked,Medium,8.001019961323651
+Fire,527,small area affected and minor damage and roads are open,Low,6.269096283706261
+Flood,578,situation under control and some houses damaged and small area affected,Low,6.361302477572996
+Other,2617,some houses damaged and medical help needed and roads partly blocked,Medium,7.870165946469845
+Other,182,small area affected and situation under control and small area affected,Low,5.209486152841421
+Other,714,houses collapsed and shortage of food and water and medical help needed,Medium,6.5722825426940075
+Medical,5449,several people injured and thousands homeless and roads destroyed,High,8.60337088765729
+Earthquake,15889,thousands homeless and no food or water and roads partly blocked,High,9.673445259530762
+Fire,515,small area affected and situation under control and roads are open,Low,6.246106765481563
+Hunger,2096,thousands homeless and houses collapsed and houses collapsed,High,7.64826303090192
+Other,544,situation under control and minor damage and roads are open,Low,6.300785794663244
+Earthquake,488,limited supplies needed and minor damage and roads are open,Low,6.192362489474872
+Hunger,2729,many deaths reported and thousands homeless and urgent rescue needed,High,7.912056888179006
+Hunger,1406,many families displaced and roads partly blocked and several people injured,Medium,7.249215057114389
+Hunger,3012,children trapped and hospital overwhelmed and many deaths reported,High,8.0106915391303
+Medical,537,houses collapsed and some houses damaged and roads partly blocked,Medium,6.2878585601617845
+Hunger,1252,houses collapsed and roads partly blocked and several people injured,Medium,7.133295954896068
+Hunger,918,several people injured and shortage of food and water and many families displaced,Medium,6.823286122355687
+Flood,794,shortage of food and water and medical help needed and shortage of food and water,Medium,6.678342114654332
+Medical,6481,urgent rescue needed and some houses damaged and houses collapsed,High,8.776784383701493
+Earthquake,480,situation under control and roads are open and limited supplies needed,Low,6.175867270105761
+Medical,16551,roads destroyed and medical help needed and urgent rescue needed,High,9.714262219425379
+Other,2344,roads partly blocked and roads destroyed and hospital overwhelmed,High,7.76004068088038
+Hunger,1293,some houses damaged and medical help needed and several people injured,Medium,7.165493475060845
+Earthquake,7387,children trapped and many deaths reported and houses collapsed,High,8.90761234131913
+Medical,105,limited supplies needed and small area affected and situation under control,Low,4.663439094112067
+Flood,29,minor damage and limited supplies needed and small area affected,Low,3.4011973816621555
+Other,4990,houses collapsed and roads partly blocked and several people injured,High,8.515391569469609
+Fire,7054,children trapped and thousands homeless and houses collapsed,High,8.861491864286915
+Medical,10056,urgent rescue needed and houses collapsed and many deaths reported,High,9.21602418844448
+Medical,1562,some houses damaged and some houses damaged and houses collapsed,Medium,7.354362330421477
+Earthquake,2699,several people injured and shortage of food and water and medical help needed,Medium,7.90100705199242
+Fire,113,limited supplies needed and minor damage and roads partly blocked,Low,4.736198448394496
+Hunger,15610,medical help needed and several people injured and many families displaced,High,9.655731072956666
+Medical,9730,some houses damaged and many deaths reported and thousands homeless,High,9.18307194482199
+Medical,1854,many families displaced and many families displaced and several people injured,Medium,7.5256399750415355
+Flood,2523,some houses damaged and some houses damaged and several people injured,Medium,7.8336002236611035
+Flood,12971,urgent rescue needed and medical help needed and hospital overwhelmed,High,9.470548467427209
+Earthquake,6787,roads destroyed and hospital overwhelmed and houses collapsed,High,8.822911626354117
+Other,12772,thousands homeless and children trapped and many families displaced,High,9.455088847042777
+Fire,8814,houses collapsed and hospital overwhelmed and thousands homeless,High,9.08421009483197
+Flood,352,several people injured and many families displaced and limited supplies needed,Low,5.8664680569332965
+Fire,16019,children trapped and no food or water and many deaths reported,High,9.68159322062235
+Earthquake,17020,thousands homeless and many deaths reported and children trapped,High,9.742203154807973
+Earthquake,56,minor damage and small area affected and minor damage,Low,4.04305126783455
+Flood,514,roads are open and small area affected and limited supplies needed,Low,6.244166900663736
+Medical,11624,several people injured and children trapped and no food or water,High,9.360913230455557
+Fire,182,minor damage and few families need support and some houses damaged,Low,5.209486152841421
+Earthquake,15374,many deaths reported and several people injured and children trapped,High,9.640498092674719
+Medical,87,shortage of food and water and limited supplies needed and situation under control,Low,4.477336814478207
+Other,2149,shortage of food and water and hospital overwhelmed and medical help needed,Medium,7.673223121121708
+Earthquake,43,limited supplies needed and minor damage and situation under control,Low,3.784189633918261
+Medical,218,shortage of food and water and houses collapsed and roads partly blocked,Medium,5.389071729816501
+Earthquake,16211,no food or water and no food or water and shortage of food and water,High,9.693506987748199
+Medical,17302,several people injured and many deaths reported and hospital overwhelmed,High,9.758635175856648
+Medical,262,few families need support and several people injured and roads partly blocked,Low,5.572154032177765
+Earthquake,34,minor damage and shortage of food and water and roads are open,Low,3.5553480614894135
+Hunger,14731,several people injured and no food or water and urgent rescue needed,High,9.597777277564957
+Flood,247,small area affected and small area affected and roads partly blocked,Low,5.5134287461649825
+Flood,1985,thousands homeless and urgent rescue needed and no food or water,Medium,7.593877844605118
+Hunger,9837,children trapped and roads partly blocked and shortage of food and water,High,9.194007717355285
+Medical,474,situation under control and situation under control and limited supplies needed,Low,6.163314804034641
+Earthquake,19943,no food or water and roads partly blocked and no food or water,High,9.900683625203394
+Medical,16163,roads destroyed and no food or water and roads destroyed,High,9.690541826198364
+Earthquake,5881,many deaths reported and many deaths reported and medical help needed,High,8.67965211911394
+Fire,2101,roads destroyed and houses collapsed and no food or water,High,7.650644551436897
+Fire,17,few families need support and small area affected and small area affected,Low,2.8903717578961645
+Flood,1521,hospital overwhelmed and medical help needed and many deaths reported,High,7.3277805384216315
+Medical,767,medical help needed and urgent rescue needed and several people injured,Medium,6.643789733147672
+Flood,3316,urgent rescue needed and hospital overwhelmed and hospital overwhelmed,High,8.106816038947052
+Fire,18774,no food or water and houses collapsed and urgent rescue needed,High,9.840281476632336
+Flood,17866,urgent rescue needed and houses collapsed and thousands homeless,High,9.790710714933168
+Flood,12979,houses collapsed and no food or water and some houses damaged,High,9.471164990258082
+Fire,121,limited supplies needed and roads are open and limited supplies needed,Low,4.804021044733257
+Other,235,situation under control and few families need support and minor damage,Low,5.4638318050256105
+Hunger,2053,roads partly blocked and medical help needed and several people injured,Medium,7.627544390488503
+Hunger,15810,houses collapsed and medical help needed and medical help needed,High,9.668461179310146
+Hunger,83,some houses damaged and shortage of food and water and small area affected,Low,4.430816798843313
+Other,1743,children trapped and roads destroyed and many deaths reported,High,7.463936604468925
+Earthquake,457,no food or water and roads partly blocked and medical help needed,Medium,6.126869184114185
+Hunger,11692,thousands homeless and children trapped and hospital overwhelmed,High,9.366745651140318
+Hunger,237,situation under control and minor damage and some houses damaged,Low,5.472270673671475
+Earthquake,2733,several people injured and shortage of food and water and several people injured,Medium,7.913521017283895
+Other,6029,many families displaced and some houses damaged and thousands homeless,High,8.704502289721232
+Hunger,955,several people injured and urgent rescue needed and shortage of food and water,Medium,6.862757913051401
+Medical,2411,roads partly blocked and many families displaced and medical help needed,Medium,7.788211557847076
+Medical,332,several people injured and roads are open and limited supplies needed,Low,5.808142489980444
+Medical,1387,roads partly blocked and roads partly blocked and medical help needed,Medium,7.23561914106675
+Other,660,many families displaced and houses collapsed and medical help needed,Medium,6.493753839851686
+Earthquake,15613,urgent rescue needed and several people injured and roads partly blocked,High,9.655923226680237
+Hunger,205,roads partly blocked and limited supplies needed and minor damage,Low,5.327876168789581
+Medical,7371,many deaths reported and urgent rescue needed and roads destroyed,High,8.905444318789714
+Medical,1727,urgent rescue needed and medical help needed and many families displaced,Medium,7.454719949364001
+Other,459,few families need support and situation under control and several people injured,Low,6.131226489483141
+Other,1896,houses collapsed and hospital overwhelmed and roads partly blocked,Medium,7.5480289699350145
+Flood,2619,many families displaced and hospital overwhelmed and roads partly blocked,Medium,7.8709295967551425
+Other,2526,shortage of food and water and roads destroyed and medical help needed,Medium,7.834788107388194
+Hunger,316,limited supplies needed and minor damage and small area affected,Low,5.75890177387728
+Hunger,2823,medical help needed and hospital overwhelmed and medical help needed,Medium,7.945909598613133
+Other,9019,some houses damaged and houses collapsed and urgent rescue needed,High,9.10719961305667
+Medical,19532,hospital overwhelmed and thousands homeless and houses collapsed,High,9.879860621904971
+Fire,2556,hospital overwhelmed and many deaths reported and thousands homeless,Medium,7.846589975291186
+Earthquake,12710,some houses damaged and urgent rescue needed and some houses damaged,High,9.450223039294668
+Other,3517,children trapped and children trapped and urgent rescue needed,High,8.165647925297504
+Hunger,9895,urgent rescue needed and roads partly blocked and children trapped,High,9.199885914072324
+Earthquake,535,few families need support and small area affected and shortage of food and water,Low,6.284134161070802
+Earthquake,7174,houses collapsed and houses collapsed and shortage of food and water,High,8.878358040627822
+Medical,361,situation under control and medical help needed and roads are open,Low,5.8916442118257715
+Hunger,6642,many deaths reported and houses collapsed and children trapped,High,8.80131894766524
+Earthquake,11073,shortage of food and water and roads destroyed and houses collapsed,High,9.312355297382913
+Flood,500,minor damage and many families displaced and roads are open,Low,6.2166061010848646
+Flood,16370,some houses damaged and some houses damaged and houses collapsed,High,9.703266755854342
+Fire,215,small area affected and some houses damaged and shortage of food and water,Low,5.375278407684165
+Hunger,19997,children trapped and no food or water and houses collapsed,High,9.903387547535795
+Fire,19,limited supplies needed and some houses damaged and roads partly blocked,Low,2.995732273553991
+Other,106,roads are open and few families need support and roads are open,Low,4.672828834461906
+Medical,114,some houses damaged and few families need support and small area affected,Low,4.74493212836325
+Flood,1487,houses collapsed and medical help needed and several people injured,Medium,7.305188215393037
+Fire,366,thousands homeless and hospital overwhelmed and several people injured,Medium,5.905361848054571
+Other,2018,medical help needed and medical help needed and houses collapsed,Medium,7.610357618312838
+Other,1705,thousands homeless and medical help needed and several people injured,Medium,7.441906728051625
+Flood,4906,medical help needed and houses collapsed and children trapped,High,8.498418036089904
+Hunger,208,roads are open and few families need support and medical help needed,Low,5.342334251964811
+Medical,10126,hospital overwhelmed and roads destroyed and roads destroyed,High,9.222960403332285
+Fire,1342,thousands homeless and hospital overwhelmed and shortage of food and water,Medium,7.202661196523238
+Earthquake,1973,many families displaced and thousands homeless and children trapped,High,7.587817219993427
+Fire,2982,some houses damaged and many families displaced and several people injured,Medium,8.000684784514748
+Medical,16270,thousands homeless and hospital overwhelmed and many deaths reported,High,9.69713966113932
+Medical,126,situation under control and few families need support and minor damage,Low,4.844187086458591
+Fire,315,small area affected and small area affected and few families need support,Low,5.755742213586912
+Flood,2530,several people injured and roads partly blocked and medical help needed,Medium,7.836369760545124
+Earthquake,17603,some houses damaged and roads destroyed and urgent rescue needed,High,9.775881427930981
+Hunger,451,many deaths reported and urgent rescue needed and several people injured,Medium,6.113682179832232
+Flood,12182,roads destroyed and urgent rescue needed and many deaths reported,High,9.407796816354407
+Earthquake,9113,hospital overwhelmed and houses collapsed and houses collapsed,High,9.117566971823829
+Earthquake,280,many families displaced and medical help needed and medical help needed,Medium,5.638354669333745
+Flood,2123,some houses damaged and medical help needed and many families displaced,Medium,7.66105638236183
+Flood,2965,medical help needed and several people injured and roads partly blocked,Medium,7.994969522697877
+Hunger,1985,several people injured and many families displaced and roads partly blocked,Medium,7.593877844605118
+Hunger,276,roads partly blocked and small area affected and minor damage,Low,5.6240175061873385
+Fire,4104,hospital overwhelmed and roads partly blocked and no food or water,High,8.31996102188653
+Flood,2868,roads partly blocked and medical help needed and some houses damaged,Medium,7.9617188159813645
+Medical,416,roads are open and roads are open and many families displaced,Low,6.0330862217988015
+Other,17915,thousands homeless and thousands homeless and roads destroyed,High,9.793449447327191
+Other,2962,urgent rescue needed and no food or water and several people injured,High,7.993957547573565
+Medical,1880,many families displaced and medical help needed and some houses damaged,Medium,7.53955882930103
+Earthquake,9403,no food or water and houses collapsed and many families displaced,High,9.14889040965996
+Hunger,480,few families need support and minor damage and situation under control,Low,6.175867270105761
+Flood,269,situation under control and small area affected and minor damage,Low,5.598421958998375
+Medical,1652,many families displaced and hospital overwhelmed and roads destroyed,High,7.410347097821024
+Other,2892,medical help needed and several people injured and shortage of food and water,Medium,7.970049304976135
+Fire,517,roads are open and roads are open and roads are open,Low,6.249975242259483
+Medical,569,many families displaced and some houses damaged and roads partly blocked,Medium,6.345636360828596
+Medical,8731,no food or water and shortage of food and water and hospital overwhelmed,High,9.074749717669835
+Medical,1241,many families displaced and some houses damaged and many families displaced,Medium,7.124478262493424
+Fire,1935,shortage of food and water and shortage of food and water and several people injured,Medium,7.568379267836522
+Hunger,286,roads partly blocked and many deaths reported and several people injured,Medium,5.659482215759621
+Hunger,570,limited supplies needed and situation under control and limited supplies needed,Low,6.3473892096560105
+Fire,247,few families need support and medical help needed and situation under control,Low,5.5134287461649825
+Flood,1164,shortage of food and water and several people injured and several people injured,Medium,7.060476365999801
+Flood,1322,medical help needed and medical help needed and some houses damaged,Medium,7.187657164114956
+Medical,4289,hospital overwhelmed and urgent rescue needed and urgent rescue needed,High,8.364042011922063
+Other,312,several people injured and several people injured and several people injured,Medium,5.746203190540153
+Flood,415,situation under control and minor damage and shortage of food and water,Low,6.030685260261263
+Other,5262,roads destroyed and urgent rescue needed and children trapped,High,8.56845648535378
+Earthquake,2629,some houses damaged and roads destroyed and medical help needed,Medium,7.874739125171811
+Fire,1119,many deaths reported and several people injured and shortage of food and water,Medium,7.02108396428914
+Medical,208,small area affected and roads partly blocked and situation under control,Low,5.342334251964811
+Flood,381,roads partly blocked and several people injured and few families need support,Low,5.945420608606575
+Medical,4883,no food or water and some houses damaged and thousands homeless,High,8.493719835230594
+Earthquake,1966,roads partly blocked and some houses damaged and shortage of food and water,Medium,7.584264818389059
+Earthquake,1873,many families displaced and some houses damaged and medical help needed,Medium,7.535830462798367
+Hunger,474,medical help needed and some houses damaged and few families need support,Low,6.163314804034641
+Earthquake,13566,hospital overwhelmed and roads partly blocked and some houses damaged,High,9.515395652485308
+Medical,367,limited supplies needed and roads are open and minor damage,Low,5.908082938168931
+Hunger,521,situation under control and limited supplies needed and roads are open,Low,6.257667587882639
+Fire,188,roads are open and situation under control and small area affected,Low,5.241747015059643
+Hunger,548,situation under control and many families displaced and few families need support,Low,6.3080984415095305
+Other,1676,some houses damaged and some houses damaged and some houses damaged,Medium,7.424761761823209
+Hunger,15279,urgent rescue needed and thousands homeless and children trapped,High,9.634300062720511
+Other,15417,shortage of food and water and shortage of food and water and some houses damaged,High,9.643290937019207
+Other,483,few families need support and some houses damaged and roads are open,Low,6.182084906716632
+Medical,2219,children trapped and houses collapsed and some houses damaged,Medium,7.705262474866325
+Earthquake,525,roads are open and roads are open and minor damage,Low,6.26530121273771
+Fire,6916,houses collapsed and thousands homeless and urgent rescue needed,High,8.841737428600585
+Hunger,129,roads are open and minor damage and small area affected,Low,4.867534450455582
+Flood,476,limited supplies needed and limited supplies needed and roads are open,Low,6.1675164908883415
+Flood,11794,thousands homeless and children trapped and many deaths reported,High,9.375430991841775
+Hunger,11589,houses collapsed and roads destroyed and some houses damaged,High,9.357897936333798
+Earthquake,413,shortage of food and water and medical help needed and limited supplies needed,Low,6.025865973825314
+Flood,310,few families need support and situation under control and roads are open,Low,5.739792912179234
+Hunger,103,roads are open and medical help needed and few families need support,Low,4.6443908991413725
+Fire,2658,medical help needed and roads partly blocked and roads destroyed,Medium,7.88570539124302
+Flood,530,few families need support and limited supplies needed and small area affected,Low,6.274762021241939
+Fire,2778,many families displaced and medical help needed and thousands homeless,Medium,7.929846429742503
+Earthquake,723,some houses damaged and roads partly blocked and roads partly blocked,Medium,6.584791392385716
+Fire,83,roads are open and medical help needed and few families need support,Low,4.430816798843313
+Other,19627,urgent rescue needed and houses collapsed and many deaths reported,High,9.884712397209794
+Other,478,shortage of food and water and minor damage and several people injured,Low,6.171700597410915
+Hunger,2605,several people injured and some houses damaged and shortage of food and water,Medium,7.8655717576847906
+Earthquake,85,roads are open and limited supplies needed and roads partly blocked,Low,4.454347296253507
+Flood,409,shortage of food and water and few families need support and limited supplies needed,Low,6.016157159698354
+Fire,16948,urgent rescue needed and roads destroyed and houses collapsed,High,9.737964114018055
+Earthquake,19,many families displaced and small area affected and small area affected,Low,2.995732273553991
+Other,794,medical help needed and roads partly blocked and hospital overwhelmed,Medium,6.678342114654332
+Earthquake,2141,many families displaced and children trapped and medical help needed,Medium,7.669495251007694
+Medical,280,roads partly blocked and some houses damaged and medical help needed,Medium,5.638354669333745
+Hunger,13,several people injured and few families need support and limited supplies needed,Low,2.6390573296152584
+Fire,19163,many deaths reported and thousands homeless and thousands homeless,High,9.860788798003012
+Other,67,few families need support and roads are open and several people injured,Low,4.219507705176107
+Medical,678,several people injured and several people injured and shortage of food and water,Medium,6.520621127558696
+Other,987,medical help needed and shortage of food and water and several people injured,Medium,6.895682697747868
+Fire,2890,some houses damaged and medical help needed and several people injured,Medium,7.969357742016346
+Other,12804,children trapped and hospital overwhelmed and houses collapsed,High,9.457590998633625
+Medical,5230,shortage of food and water and houses collapsed and thousands homeless,High,8.562357743370612
+Earthquake,1057,many families displaced and some houses damaged and shortage of food and water,Medium,6.964135612418245
+Fire,37,situation under control and roads are open and roads are open,Low,3.6375861597263857
+Medical,269,situation under control and roads are open and small area affected,Low,5.598421958998375
+Fire,4412,thousands homeless and houses collapsed and houses collapsed,High,8.392310009269547
+Flood,17623,several people injured and shortage of food and water and children trapped,High,9.777016888482178
+Hunger,15467,thousands homeless and houses collapsed and some houses damaged,High,9.646528652727188
+Earthquake,703,medical help needed and many families displaced and medical help needed,Medium,6.556778356158042
+Hunger,2268,hospital overwhelmed and medical help needed and several people injured,Medium,7.727094484779841
+Earthquake,547,small area affected and medical help needed and few families need support,Low,6.306275286948016
+Fire,2994,many families displaced and many families displaced and roads partly blocked,Medium,8.00469951054955
+Flood,351,small area affected and few families need support and limited supplies needed,Low,5.863631175598097
+Earthquake,19827,several people injured and hospital overwhelmed and hospital overwhelmed,High,9.894850359140465
+Other,11279,many deaths reported and children trapped and thousands homeless,High,9.33078652505205
+Earthquake,18839,thousands homeless and roads destroyed and hospital overwhelmed,High,9.843737548130354
+Flood,555,limited supplies needed and small area affected and roads are open,Low,6.320768294250582
+Earthquake,580,some houses damaged and several people injured and many deaths reported,Medium,6.364750756851911
+Fire,9476,hospital overwhelmed and houses collapsed and urgent rescue needed,High,9.156623089470195
+Other,2278,many families displaced and many families displaced and roads partly blocked,Medium,7.731492029245684
+Flood,15848,no food or water and no food or water and hospital overwhelmed,High,9.670861685832426
+Other,19768,roads destroyed and no food or water and roads partly blocked,High,9.891870333195937
+Earthquake,12838,children trapped and roads destroyed and many families displaced,High,9.460242692591084
+Earthquake,2150,many families displaced and roads partly blocked and roads partly blocked,Medium,7.67368812926773
+Medical,9640,roads destroyed and thousands homeless and roads destroyed,High,9.17378011666438
+Earthquake,522,several people injured and limited supplies needed and roads are open,Low,6.259581464064923
+Other,222,minor damage and roads are open and minor damage,Low,5.407171771460119
+Medical,4615,roads partly blocked and children trapped and some houses damaged,High,8.437283808187935
+Hunger,1404,shortage of food and water and roads destroyed and hospital overwhelmed,Medium,7.247792581767846
+Earthquake,949,medical help needed and urgent rescue needed and many deaths reported,Medium,6.856461984594587
+Medical,2547,medical help needed and medical help needed and several people injured,Medium,7.843064016692054
+Earthquake,5539,thousands homeless and thousands homeless and several people injured,High,8.61974977974133
+Flood,2759,medical help needed and medical help needed and many families displaced,Medium,7.9229859587111955
+Medical,10089,children trapped and hospital overwhelmed and houses collapsed,High,9.219300113347655
+Fire,3790,roads partly blocked and many deaths reported and no food or water,High,8.240385115516334
+Fire,276,children trapped and some houses damaged and shortage of food and water,Medium,5.6240175061873385
+Fire,15556,roads partly blocked and roads destroyed and thousands homeless,High,9.652265977087122
+Hunger,452,many families displaced and situation under control and minor damage,Low,6.115892125483034
+Flood,559,shortage of food and water and many families displaced and medical help needed,Low,6.327936783729195
+Earthquake,2930,urgent rescue needed and several people injured and medical help needed,High,7.983098940710892
+Hunger,150,situation under control and minor damage and shortage of food and water,Low,5.017279836814924
+Fire,8749,roads destroyed and hospital overwhelmed and medical help needed,High,9.07680897935166
+Medical,3144,roads destroyed and many deaths reported and houses collapsed,High,8.05356916913454
+Fire,133,few families need support and limited supplies needed and small area affected,Low,4.897839799950911
+Fire,888,roads partly blocked and roads partly blocked and many families displaced,Medium,6.790097235513905
+Fire,1384,shortage of food and water and thousands homeless and some houses damaged,Medium,7.233455418621439
+Medical,12515,no food or water and hospital overwhelmed and several people injured,High,9.434763104788773
+Fire,3291,roads destroyed and children trapped and hospital overwhelmed,High,8.09925056179696
+Earthquake,2700,some houses damaged and some houses damaged and several people injured,Medium,7.901377353792616
+Hunger,1207,some houses damaged and medical help needed and some houses damaged,Medium,7.0967213784947605
+Other,141,minor damage and minor damage and limited supplies needed,Low,4.955827057601261
+Medical,574,limited supplies needed and few families need support and limited supplies needed,Low,6.354370040797351
+Flood,18650,several people injured and houses collapsed and roads destroyed,High,9.833655042937448
+Hunger,13673,several people injured and houses collapsed and no food or water,High,9.523251498473739
+Flood,1107,some houses damaged and several people injured and many families displaced,Medium,7.010311867307229
+Other,10934,no food or water and thousands homeless and many deaths reported,High,9.299723933110869
+Medical,2682,shortage of food and water and several people injured and some houses damaged,Medium,7.894690850425624
+Fire,17187,shortage of food and water and children trapped and shortage of food and water,High,9.751966744894887
+Flood,5175,no food or water and hospital overwhelmed and several people injured,High,8.551787836180736
+Other,550,limited supplies needed and few families need support and medical help needed,Low,6.311734809152915
+Other,2699,urgent rescue needed and roads destroyed and thousands homeless,High,7.90100705199242
+Hunger,2318,several people injured and some houses damaged and roads partly blocked,Medium,7.7488913372555315
+Hunger,221,some houses damaged and many deaths reported and shortage of food and water,Medium,5.402677381872279
+Medical,3439,no food or water and some houses damaged and several people injured,High,8.143226750367445
+Flood,496,minor damage and limited supplies needed and situation under control,Low,6.208590026096629
+Flood,489,situation under control and situation under control and small area affected,Low,6.194405391104672
+Fire,454,limited supplies needed and minor damage and many families displaced,Low,6.12029741895095
+Medical,325,limited supplies needed and shortage of food and water and medical help needed,Low,5.786897381366708
+Hunger,447,several people injured and many families displaced and few families need support,Low,6.104793232414985
+Flood,2728,shortage of food and water and several people injured and medical help needed,Medium,7.911690520708339
+Medical,1953,roads partly blocked and many deaths reported and some houses damaged,Medium,7.577633832602728
+Earthquake,4539,roads partly blocked and no food or water and children trapped,High,8.420682291035394
+Fire,9397,thousands homeless and thousands homeless and shortage of food and water,High,9.14825217966276
+Flood,135,few families need support and limited supplies needed and situation under control,Low,4.912654885736052
+Fire,5771,some houses damaged and hospital overwhelmed and many deaths reported,High,8.660773919893762
+Fire,5738,roads partly blocked and many deaths reported and no food or water,High,8.655040258108363
+Other,211,situation under control and medical help needed and few families need support,Low,5.356586274672012
+Other,11850,urgent rescue needed and roads destroyed and houses collapsed,High,9.380167531188448
+Flood,2231,many families displaced and several people injured and roads partly blocked,Medium,7.710653323501202
+Earthquake,497,situation under control and few families need support and small area affected,Low,6.210600077024653
+Hunger,15,many families displaced and small area affected and small area affected,Low,2.772588722239781
+Fire,12793,many families displaced and some houses damaged and some houses damaged,High,9.456731590010083
+Earthquake,12135,no food or water and many families displaced and some houses damaged,High,9.403931521028369
+Flood,145,minor damage and small area affected and small area affected,Low,4.983606621708336
+Hunger,2907,roads destroyed and many families displaced and children trapped,Medium,7.97522083865341
+Earthquake,550,situation under control and few families need support and small area affected,Low,6.311734809152915
+Fire,198,situation under control and situation under control and limited supplies needed,Low,5.293304824724492
+Earthquake,2281,medical help needed and many families displaced and several people injured,Medium,7.732807530422021
+Flood,6486,urgent rescue needed and thousands homeless and several people injured,High,8.777555453213056
+Fire,2179,medical help needed and roads partly blocked and roads partly blocked,Medium,7.687080155783135
+Flood,7789,no food or water and no food or water and hospital overwhelmed,High,8.960596138864794
+Medical,2540,urgent rescue needed and many families displaced and houses collapsed,Medium,7.840312983320164
+Medical,2325,roads partly blocked and urgent rescue needed and medical help needed,Medium,7.75190533307861
+Medical,1705,some houses damaged and many families displaced and no food or water,Medium,7.441906728051625
+Other,510,many families displaced and roads partly blocked and several people injured,Medium,6.236369590203704
+Hunger,238,many families displaced and roads are open and small area affected,Low,5.476463551931511
+Hunger,9192,hospital overwhelmed and roads partly blocked and hospital overwhelmed,High,9.126197603863755
+Hunger,293,few families need support and roads are open and minor damage,Low,5.683579767338681
+Other,2299,shortage of food and water and shortage of food and water and several people injured,Medium,7.7406644019172415
+Medical,244,roads are open and limited supplies needed and situation under control,Low,5.501258210544727
+Hunger,197,limited supplies needed and few families need support and roads are open,Low,5.288267030694535
+Hunger,147,small area affected and limited supplies needed and several people injured,Low,4.997212273764115
+Hunger,1123,several people injured and several people injured and some houses damaged,Medium,7.024649030453636
+Flood,19598,children trapped and some houses damaged and roads destroyed,High,9.88323382350886
+Earthquake,1800,roads destroyed and houses collapsed and medical help needed,Medium,7.496097345175956
+Hunger,4055,several people injured and many deaths reported and thousands homeless,High,8.30795254527102
+Earthquake,208,medical help needed and small area affected and roads are open,Low,5.342334251964811
+Medical,63,minor damage and medical help needed and minor damage,Low,4.1588830833596715
+Fire,433,minor damage and small area affected and shortage of food and water,Low,6.073044534100405
+Medical,2922,roads partly blocked and some houses damaged and roads partly blocked,Medium,7.980365765111246
+Other,16039,many deaths reported and thousands homeless and medical help needed,High,9.682840881420505
+Earthquake,18231,thousands homeless and many deaths reported and hospital overwhelmed,High,9.81093357092552
+Medical,12363,hospital overwhelmed and children trapped and children trapped,High,9.422544303252007
+Other,15158,children trapped and houses collapsed and many deaths reported,High,9.626349693960018
+Earthquake,285,roads are open and minor damage and limited supplies needed,Low,5.655991810819852
+Medical,426,roads are open and some houses damaged and many families displaced,Low,6.056784013228625
+Hunger,14438,hospital overwhelmed and many deaths reported and houses collapsed,High,9.577688157971219
+Other,16135,roads destroyed and roads destroyed and some houses damaged,High,9.688808079634049
+Other,144,limited supplies needed and few families need support and roads partly blocked,Low,4.976733742420574
+Earthquake,15343,some houses damaged and children trapped and houses collapsed,High,9.63847979712322
+Hunger,132,few families need support and several people injured and limited supplies needed,Low,4.890349128221754
+Earthquake,2004,shortage of food and water and several people injured and medical help needed,Medium,7.60339933974067
+Flood,18133,houses collapsed and hospital overwhelmed and many deaths reported,High,9.805543908206001
+Medical,211,situation under control and small area affected and medical help needed,Low,5.356586274672012
+Flood,350,limited supplies needed and small area affected and minor damage,Low,5.860786223465865
+Earthquake,6473,roads partly blocked and some houses damaged and no food or water,High,8.775549434486189
+Earthquake,18750,roads destroyed and shortage of food and water and some houses damaged,High,9.839002363309719
+Flood,416,minor damage and few families need support and limited supplies needed,Low,6.0330862217988015
+Other,2755,many families displaced and medical help needed and roads partly blocked,Medium,7.9215356321335495
+Flood,2396,roads partly blocked and houses collapsed and several people injured,Medium,7.781973234434385
+Medical,5355,urgent rescue needed and thousands homeless and many families displaced,High,8.585972706811063
+Fire,15709,no food or water and many deaths reported and houses collapsed,High,9.662052731249666
+Earthquake,1955,roads partly blocked and children trapped and some houses damaged,Medium,7.578656850594762
+Earthquake,389,minor damage and limited supplies needed and few families need support,Low,5.966146739123692
+Hunger,5399,many deaths reported and roads destroyed and hospital overwhelmed,High,8.594154232552366
+Earthquake,344,small area affected and limited supplies needed and limited supplies needed,Low,5.84354441703136
+Other,8289,roads destroyed and children trapped and many deaths reported,High,9.022805248129341
+Medical,76,minor damage and small area affected and small area affected,Low,4.343805421853684
+Earthquake,567,small area affected and minor damage and few families need support,Low,6.342121418721152
+Earthquake,1009,shortage of food and water and some houses damaged and medical help needed,Medium,6.917705609835305
+Earthquake,9908,thousands homeless and some houses damaged and children trapped,High,9.201198714058899
+Medical,1931,several people injured and shortage of food and water and medical help needed,Medium,7.566311014772463
+Medical,442,situation under control and small area affected and small area affected,Low,6.093569770045136
+Medical,2099,some houses damaged and roads partly blocked and some houses damaged,Medium,7.649692623711514
+Other,485,shortage of food and water and roads partly blocked and situation under control,Low,6.186208623900494
+Medical,1903,several people injured and medical help needed and roads partly blocked,Medium,7.55171221535131
+Medical,44,minor damage and roads are open and medical help needed,Low,3.8066624897703196
+Other,1627,medical help needed and some houses damaged and several people injured,Medium,7.395107546562485
+Medical,1210,many families displaced and some houses damaged and several people injured,Medium,7.099201743553092
+Other,156,few families need support and small area affected and roads are open,Low,5.056245805348308
+Other,6289,many families displaced and roads destroyed and houses collapsed,High,8.746716349694486
+Earthquake,14859,medical help needed and hospital overwhelmed and roads destroyed,High,9.60642831827175
+Hunger,14487,houses collapsed and roads partly blocked and urgent rescue needed,High,9.58107599956325
+Hunger,219,few families need support and minor damage and few families need support,Low,5.393627546352362
+Flood,76,few families need support and limited supplies needed and few families need support,Low,4.343805421853684
+Earthquake,388,shortage of food and water and shortage of food and water and minor damage,Low,5.963579343618446
+Fire,1070,many deaths reported and shortage of food and water and medical help needed,Medium,6.976348070447749
+Other,2757,children trapped and houses collapsed and some houses damaged,Medium,7.922261058353247
+Hunger,35,few families need support and minor damage and some houses damaged,Low,3.58351893845611
+Other,47,roads partly blocked and few families need support and situation under control,Low,3.871201010907891
+Medical,1580,some houses damaged and some houses damaged and shortage of food and water,Medium,7.365812837209472
+Other,1832,many families displaced and some houses damaged and many families displaced,Medium,7.513709247839705
+Other,1845,shortage of food and water and houses collapsed and some houses damaged,Medium,7.520776415062797
+Earthquake,13072,thousands homeless and no food or water and several people injured,High,9.47830431356186
+Flood,2795,many families displaced and several people injured and medical help needed,Medium,7.935945103353701
+Fire,501,roads are open and situation under control and few families need support,Low,6.218600119691729
+Other,4291,hospital overwhelmed and children trapped and many deaths reported,High,8.36450810375059
+Medical,94,limited supplies needed and few families need support and medical help needed,Low,4.553876891600541
+Medical,558,small area affected and several people injured and minor damage,Low,6.326149473155099
+Other,319,urgent rescue needed and some houses damaged and some houses damaged,Medium,5.768320995793772
+Medical,5033,thousands homeless and several people injured and no food or water,High,8.523970175695261
+Fire,3119,roads destroyed and roads destroyed and roads destroyed,High,8.045588280803528
+Earthquake,270,many families displaced and some houses damaged and small area affected,Low,5.602118820879701
+Flood,19770,urgent rescue needed and many deaths reported and no food or water,High,9.89197149657488
+Medical,1509,several people injured and shortage of food and water and roads partly blocked,Medium,7.31986492980897
+Earthquake,4492,thousands homeless and hospital overwhelmed and thousands homeless,High,8.41027590907016
+Medical,5830,children trapped and many deaths reported and hospital overwhelmed,High,8.670943791222156
+Other,5045,thousands homeless and no food or water and roads destroyed,High,8.526351129201004
+Hunger,161,small area affected and small area affected and minor damage,Low,5.087596335232384
+Medical,406,limited supplies needed and small area affected and roads are open,Low,6.008813185442595
+Hunger,1930,some houses damaged and medical help needed and hospital overwhelmed,Medium,7.565793282428515
+Other,999,roads partly blocked and shortage of food and water and roads partly blocked,Medium,6.907755278982137
+Other,316,small area affected and few families need support and situation under control,Low,5.75890177387728
+Earthquake,228,small area affected and minor damage and roads are open,Low,5.43372200355424
+Other,156,few families need support and small area affected and minor damage,Low,5.056245805348308
+Medical,935,many families displaced and several people injured and medical help needed,Medium,6.841615476477592
+Other,418,minor damage and few families need support and roads are open,Low,6.037870919922137
+Other,389,limited supplies needed and few families need support and limited supplies needed,Low,5.966146739123692
+Hunger,2790,some houses damaged and houses collapsed and thousands homeless,Medium,7.934155233536322
+Other,17703,thousands homeless and houses collapsed and children trapped,High,9.781545881730885
+Medical,2840,some houses damaged and many families displaced and several people injured,Medium,7.951911381854188
+Earthquake,14281,many deaths reported and thousands homeless and roads partly blocked,High,9.566755282109055
+Other,5066,no food or water and houses collapsed and roads partly blocked,High,8.53050420547591
+Earthquake,1174,urgent rescue needed and shortage of food and water and children trapped,High,7.069023426578259
+Fire,267,minor damage and many families displaced and situation under control,Low,5.5909869805108565
+Earthquake,14862,many deaths reported and many deaths reported and hospital overwhelmed,High,9.606630182148894
+Fire,15579,medical help needed and urgent rescue needed and no food or water,High,9.65374331942474
+Flood,2465,no food or water and shortage of food and water and no food or water,High,7.81035268372429
+Hunger,10089,roads partly blocked and hospital overwhelmed and children trapped,High,9.219300113347655
+Medical,541,several people injured and several people injured and no food or water,Medium,6.295266001439646
+Other,280,limited supplies needed and limited supplies needed and limited supplies needed,Low,5.638354669333745
+Fire,6375,children trapped and roads destroyed and no food or water,High,8.760296220470051
+Hunger,132,limited supplies needed and minor damage and minor damage,Low,4.890349128221754
+Hunger,1319,no food or water and many families displaced and shortage of food and water,Medium,7.1853870155804165
+Flood,705,hospital overwhelmed and medical help needed and urgent rescue needed,Medium,6.559615237493242
+Fire,10240,houses collapsed and children trapped and roads destroyed,High,9.234154550075438
+Hunger,549,few families need support and small area affected and limited supplies needed,Low,6.309918278226516
+Other,6095,children trapped and hospital overwhelmed and several people injured,High,8.715388097366482
+Hunger,9162,roads destroyed and children trapped and urgent rescue needed,High,9.122928914965213
+Fire,1374,medical help needed and several people injured and shortage of food and water,Medium,7.226209010100671
+Other,556,medical help needed and many families displaced and many families displaced,Medium,6.322565239927284
+Earthquake,4068,many families displaced and some houses damaged and thousands homeless,High,8.31115254800169
+Medical,525,small area affected and roads are open and limited supplies needed,Low,6.26530121273771
+Other,5085,no food or water and many deaths reported and urgent rescue needed,High,8.534246945982066
+Other,545,minor damage and small area affected and roads are open,Low,6.302618975744905
+Earthquake,81,small area affected and minor damage and few families need support,Low,4.406719247264253
+Hunger,120,limited supplies needed and roads are open and minor damage,Low,4.795790545596741
+Hunger,2178,shortage of food and water and roads destroyed and some houses damaged,Medium,7.68662133494462
+Fire,2160,thousands homeless and many families displaced and urgent rescue needed,High,7.6783263565068856
+Hunger,638,children trapped and many families displaced and thousands homeless,Medium,6.459904454377535
+Flood,546,small area affected and few families need support and several people injured,Low,6.304448802421981
+Earthquake,2127,some houses damaged and shortage of food and water and some houses damaged,Medium,7.662937850461535
+Medical,454,some houses damaged and minor damage and limited supplies needed,Low,6.12029741895095
+Flood,199,small area affected and limited supplies needed and minor damage,Low,5.298317366548036
+Other,208,limited supplies needed and minor damage and roads are open,Low,5.342334251964811
+Other,721,medical help needed and several people injured and medical help needed,Medium,6.582025138892826
+Flood,115,small area affected and roads partly blocked and several people injured,Low,4.7535901911063645
+Flood,355,roads are open and few families need support and situation under control,Low,5.87493073085203
+Flood,1956,shortage of food and water and shortage of food and water and many families displaced,Medium,7.579167967396076
+Other,1213,medical help needed and houses collapsed and roads partly blocked,Medium,7.101675971619444
+Earthquake,7182,children trapped and children trapped and hospital overwhelmed,High,8.879472402074802
+Earthquake,441,shortage of food and water and many families displaced and roads are open,Low,6.091309882077698
+Other,2794,shortage of food and water and medical help needed and roads destroyed,Medium,7.9355873855892
+Flood,10970,some houses damaged and urgent rescue needed and no food or water,High,9.30301070681749
+Flood,944,many deaths reported and some houses damaged and medical help needed,Medium,6.851184927493743
+Fire,612,some houses damaged and some houses damaged and many families displaced,Medium,6.418364935936212
+Other,18,small area affected and limited supplies needed and limited supplies needed,Low,2.9444389791664403
+Fire,13176,hospital overwhelmed and roads destroyed and many families displaced,High,9.486228164545253
+Other,128,several people injured and small area affected and minor damage,Low,4.859812404361672
+Fire,356,few families need support and small area affected and small area affected,Low,5.877735781779639
+Earthquake,201,limited supplies needed and roads are open and situation under control,Low,5.308267697401205
+Other,680,many families displaced and roads partly blocked and roads partly blocked,Medium,6.523562306149512
+Earthquake,285,small area affected and roads are open and several people injured,Low,5.655991810819852
+Other,412,roads are open and minor damage and roads partly blocked,Low,6.023447592961033
+Fire,1798,some houses damaged and many families displaced and no food or water,Medium,7.4949862339505335
+Other,1290,thousands homeless and hospital overwhelmed and no food or water,High,7.1631723908466425
+Other,1299,shortage of food and water and roads partly blocked and many families displaced,Medium,7.170119543449628
+Earthquake,10101,hospital overwhelmed and many deaths reported and no food or water,High,9.220488703027998
+Fire,123,some houses damaged and situation under control and limited supplies needed,Low,4.820281565605037
+Hunger,5378,hospital overwhelmed and many deaths reported and many deaths reported,High,8.590257762273243
+Earthquake,1345,many deaths reported and roads partly blocked and roads destroyed,Medium,7.204892510204673
+Hunger,19051,thousands homeless and hospital overwhelmed and roads destroyed,High,9.854927361920751
+Medical,242,few families need support and few families need support and shortage of food and water,Low,5.493061443340548
+Earthquake,921,thousands homeless and shortage of food and water and many families displaced,Medium,6.826545223556594
+Earthquake,927,several people injured and many families displaced and roads destroyed,Medium,6.833031732786201
+Medical,417,roads partly blocked and many families displaced and few families need support,Low,6.035481432524756
+Flood,650,several people injured and shortage of food and water and many families displaced,Medium,6.478509642208569
+Earthquake,2769,many families displaced and many families displaced and some houses damaged,Medium,7.926602599181384
+Flood,7629,roads partly blocked and children trapped and thousands homeless,High,8.939843124278502
+Earthquake,62,situation under control and minor damage and many families displaced,Low,4.143134726391533
+Fire,308,medical help needed and shortage of food and water and medical help needed,Low,5.733341276897746
+Earthquake,1647,shortage of food and water and several people injured and several people injured,Medium,7.4073177104694174
+Medical,178,small area affected and some houses damaged and roads are open,Low,5.187385805840755
+Flood,1676,many families displaced and roads partly blocked and roads destroyed,Medium,7.424761761823209
+Hunger,6942,children trapped and hospital overwhelmed and hospital overwhelmed,High,8.845489236753274
+Flood,1310,several people injured and some houses damaged and several people injured,Medium,7.1785454837637
+Flood,157,small area affected and few families need support and few families need support,Low,5.062595033026967
+Flood,596,limited supplies needed and minor damage and small area affected,Low,6.391917113392602
+Medical,366,few families need support and few families need support and limited supplies needed,Low,5.905361848054571
+Earthquake,2878,medical help needed and medical help needed and medical help needed,Medium,7.965198290612176
+Fire,8540,roads destroyed and no food or water and no food or water,High,9.052633375946147
+Flood,1032,many families displaced and medical help needed and many families displaced,Medium,6.940222469119639
+Hunger,374,small area affected and small area affected and roads are open,Low,5.926926025970411
+Earthquake,1063,many families displaced and many families displaced and several people injured,Medium,6.96979066990159
+Medical,31,few families need support and limited supplies needed and roads partly blocked,Low,3.4657359027997265
+Medical,166,some houses damaged and shortage of food and water and roads partly blocked,Low,5.117993812416755
+Earthquake,947,shortage of food and water and several people injured and medical help needed,Medium,6.854354502255021
+Other,1581,several people injured and some houses damaged and many deaths reported,Medium,7.366445148327599
+Flood,6687,many deaths reported and roads destroyed and thousands homeless,High,8.808070154764538
+Other,9455,hospital overwhelmed and roads destroyed and hospital overwhelmed,High,9.15440473964588
+Fire,391,small area affected and few families need support and small area affected,Low,5.971261839790462
+Earthquake,2490,many families displaced and medical help needed and several people injured,Medium,7.820439515262181
+Medical,13467,some houses damaged and no food or water and houses collapsed,High,9.508071780280964
+Hunger,348,some houses damaged and many families displaced and roads partly blocked,Low,5.855071922202427
+Hunger,197,limited supplies needed and small area affected and roads are open,Low,5.288267030694535
+Flood,19472,thousands homeless and some houses damaged and some houses damaged,High,9.876784169701578
+Hunger,294,roads are open and medical help needed and small area affected,Low,5.68697535633982
+Other,4190,houses collapsed and children trapped and medical help needed,High,8.340694647925071
+Fire,353,shortage of food and water and many families displaced and many families displaced,Medium,5.869296913133774
+Earthquake,8066,children trapped and children trapped and urgent rescue needed,High,8.995536944936974
+Earthquake,1588,roads partly blocked and medical help needed and roads destroyed,Medium,7.370860166536716
+Earthquake,81,roads are open and few families need support and many families displaced,Low,4.406719247264253
+Hunger,565,minor damage and few families need support and situation under control,Low,6.338594078203183
+Flood,291,situation under control and shortage of food and water and few families need support,Low,5.676753802268282
+Medical,1248,medical help needed and shortage of food and water and roads partly blocked,Medium,7.130098510125578
+Flood,1688,medical help needed and roads partly blocked and shortage of food and water,Medium,7.4318919168078
+Hunger,2299,some houses damaged and several people injured and medical help needed,Medium,7.7406644019172415
+Other,374,several people injured and no food or water and roads partly blocked,Medium,5.926926025970411
+Earthquake,112,small area affected and minor damage and few families need support,Low,4.727387818712341
+Flood,12433,thousands homeless and shortage of food and water and roads destroyed,High,9.428189934829282
+Earthquake,1844,some houses damaged and roads partly blocked and several people injured,Medium,7.520234556474628
+Medical,4746,many deaths reported and thousands homeless and shortage of food and water,High,8.465268118551318
+Fire,328,medical help needed and urgent rescue needed and medical help needed,Medium,5.796057750765372
+Flood,221,limited supplies needed and situation under control and minor damage,Low,5.402677381872279
+Flood,285,situation under control and few families need support and roads are open,Low,5.655991810819852
+Other,270,many families displaced and medical help needed and situation under control,Low,5.602118820879701
+Earthquake,362,few families need support and limited supplies needed and limited supplies needed,Low,5.8944028342648505
+Hunger,2536,many families displaced and roads partly blocked and children trapped,Medium,7.838737559599282
+Other,1496,thousands homeless and medical help needed and many families displaced,Medium,7.311218384419629
+Medical,9611,many deaths reported and children trapped and houses collapsed,High,9.17076759685636
+Earthquake,197,roads are open and roads are open and situation under control,Low,5.288267030694535
+Earthquake,595,situation under control and minor damage and situation under control,Low,6.39024066706535
+Flood,17355,thousands homeless and urgent rescue needed and roads destroyed,High,9.761693546918242
+Hunger,4715,thousands homeless and children trapped and children trapped,High,8.458716261657262
+Medical,13503,roads destroyed and houses collapsed and houses collapsed,High,9.510741216835738
+Other,21,few families need support and several people injured and roads are open,Low,3.091042453358316
+Other,459,minor damage and few families need support and few families need support,Low,6.131226489483141
+Medical,4751,medical help needed and urgent rescue needed and thousands homeless,High,8.466320861042481
+Other,1821,urgent rescue needed and roads partly blocked and several people injured,Medium,7.507690077819904
+Hunger,1898,many families displaced and medical help needed and many deaths reported,Medium,7.549082710812286
+Hunger,536,roads are open and small area affected and few families need support,Low,6.285998094508865
+Fire,405,several people injured and minor damage and roads are open,Low,6.0063531596017325
+Earthquake,2806,several people injured and urgent rescue needed and medical help needed,Medium,7.939871576361883
+Flood,134,limited supplies needed and few families need support and limited supplies needed,Low,4.90527477843843
+Fire,851,shortage of food and water and many deaths reported and several people injured,Medium,6.747586526829315
+Earthquake,1911,houses collapsed and many deaths reported and children trapped,High,7.555905093611346
+Other,2786,shortage of food and water and shortage of food and water and roads partly blocked,Medium,7.932721027481948
+Other,392,limited supplies needed and many families displaced and limited supplies needed,Low,5.973809611869261
+Other,598,minor damage and roads are open and shortage of food and water,Low,6.395261598115449
+Hunger,939,thousands homeless and shortage of food and water and medical help needed,Medium,6.84587987526405
+Medical,80,limited supplies needed and several people injured and situation under control,Low,4.394449154672439
+Medical,6279,many families displaced and many deaths reported and some houses damaged,High,8.745125259462244
+Medical,2714,many families displaced and hospital overwhelmed and shortage of food and water,Medium,7.906547232368036
+Flood,18562,roads partly blocked and no food or water and houses collapsed,High,9.828925631209223
+Flood,340,many families displaced and small area affected and few families need support,Low,5.831882477283517
+Flood,361,limited supplies needed and limited supplies needed and few families need support,Low,5.8916442118257715
+Medical,7326,no food or water and hospital overwhelmed and houses collapsed,High,8.899321434159964
+Fire,11210,shortage of food and water and thousands homeless and thousands homeless,High,9.324650718153594
+Fire,1312,roads partly blocked and roads destroyed and roads partly blocked,Medium,7.180069874302796
+Hunger,2791,medical help needed and many deaths reported and some houses damaged,Medium,7.934513463882263
+Medical,10616,urgent rescue needed and houses collapsed and some houses damaged,High,9.270211769013573
+Earthquake,1665,shortage of food and water and some houses damaged and urgent rescue needed,Medium,7.418180822726788
+Flood,331,limited supplies needed and few families need support and situation under control,Low,5.805134968916488
+Fire,72,roads are open and small area affected and some houses damaged,Low,4.290459441148391
+Fire,3451,roads destroyed and roads destroyed and urgent rescue needed,High,8.146709052203319
+Earthquake,55,few families need support and some houses damaged and minor damage,Low,4.02535169073515
+Earthquake,2663,medical help needed and many families displaced and several people injured,Medium,7.88758403166028
+Flood,16131,roads destroyed and roads partly blocked and many deaths reported,High,9.688560155993258
+Other,266,houses collapsed and medical help needed and some houses damaged,Medium,5.58724865840025
+Hunger,1839,urgent rescue needed and many families displaced and several people injured,Medium,7.517520850603031
+Medical,2825,many families displaced and roads partly blocked and no food or water,Medium,7.946617563244473
+Flood,147,some houses damaged and limited supplies needed and small area affected,Low,4.997212273764115
+Earthquake,382,roads are open and limited supplies needed and situation under control,Low,5.948034989180646
+Flood,54,minor damage and limited supplies needed and few families need support,Low,4.007333185232471
+Other,897,roads partly blocked and shortage of food and water and shortage of food and water,Medium,6.8001700683022
+Medical,15640,no food or water and thousands homeless and urgent rescue needed,High,9.657650950674242
+Medical,8400,some houses damaged and urgent rescue needed and no food or water,High,9.036106025364846
+Other,7746,houses collapsed and many deaths reported and no food or water,High,8.955060950631902
+Medical,969,some houses damaged and roads partly blocked and roads partly blocked,Medium,6.877296071497429
+Hunger,2059,roads partly blocked and children trapped and some houses damaged,Medium,7.630461261783627
+Medical,2741,medical help needed and hospital overwhelmed and several people injured,Medium,7.91644286012226
+Fire,2855,thousands homeless and several people injured and many deaths reported,Medium,7.957177323459475
+Earthquake,1292,thousands homeless and many families displaced and many families displaced,Medium,7.164720378771857
+Medical,1068,roads destroyed and many families displaced and some houses damaged,Medium,6.974478911025045
+Flood,396,few families need support and shortage of food and water and roads are open,Low,5.983936280687191
+Fire,2688,medical help needed and many deaths reported and many families displaced,Medium,7.896924656268864
+Flood,59,roads are open and minor damage and situation under control,Low,4.0943445622221
+Fire,419,minor damage and limited supplies needed and small area affected,Low,6.040254711277414
+Earthquake,360,limited supplies needed and limited supplies needed and shortage of food and water,Low,5.8888779583328805
+Other,16622,no food or water and several people injured and shortage of food and water,High,9.718542557535459
+Medical,780,several people injured and some houses damaged and hospital overwhelmed,Medium,6.660575149839686
+Earthquake,14,few families need support and few families need support and few families need support,Low,2.70805020110221
+Flood,22,situation under control and roads are open and small area affected,Low,3.1354942159291497
+Flood,316,situation under control and limited supplies needed and roads are open,Low,5.75890177387728
+Other,2192,medical help needed and urgent rescue needed and some houses damaged,Medium,7.693025748417888
+Other,16871,several people injured and many deaths reported and medical help needed,High,9.733410722158611
+Other,150,minor damage and limited supplies needed and few families need support,Low,5.017279836814924
+Earthquake,565,roads destroyed and some houses damaged and several people injured,Medium,6.338594078203183
+Medical,18265,several people injured and urgent rescue needed and roads destroyed,High,9.812796687251625
+Hunger,980,urgent rescue needed and many families displaced and medical help needed,Medium,6.8885724595653635
+Hunger,10450,many families displaced and children trapped and children trapped,High,9.254452946594503
+Hunger,19289,hospital overwhelmed and houses collapsed and many deaths reported,High,9.867342105899775
+Flood,1090,roads partly blocked and thousands homeless and medical help needed,Medium,6.994849985833071
+Other,202,children trapped and some houses damaged and roads partly blocked,Medium,5.313205979041787
+Fire,6080,hospital overwhelmed and several people injured and roads partly blocked,High,8.71292443512011
+Hunger,229,some houses damaged and limited supplies needed and few families need support,Low,5.438079308923196
+Flood,1270,roads partly blocked and roads partly blocked and some houses damaged,Medium,7.147559271189454
+Earthquake,7537,roads destroyed and hospital overwhelmed and hospital overwhelmed,High,8.92771217382708
+Other,16111,roads destroyed and roads destroyed and roads partly blocked,High,9.687319614958344
+Other,1483,several people injured and medical help needed and medical help needed,Medium,7.302496423727326
+Medical,2089,many deaths reported and medical help needed and children trapped,Medium,7.644919344958857
+Hunger,8951,urgent rescue needed and roads partly blocked and hospital overwhelmed,High,9.09963224999176
+Medical,133,minor damage and roads are open and minor damage,Low,4.897839799950911
+Flood,281,limited supplies needed and roads partly blocked and some houses damaged,Low,5.641907070938114
+Medical,11856,houses collapsed and many deaths reported and children trapped,High,9.380673689458071
+Other,17230,several people injured and children trapped and hospital overwhelmed,High,9.7544653661431
+Flood,16891,no food or water and many families displaced and many families displaced,High,9.734595416053834
+Flood,9100,thousands homeless and roads partly blocked and many deaths reported,High,9.116139576577355
+Hunger,419,small area affected and roads are open and roads are open,Low,6.040254711277414
+Medical,5036,many deaths reported and several people injured and children trapped,High,8.52456594574565
+Other,18913,thousands homeless and houses collapsed and thousands homeless,High,9.847657667575458
+Other,1327,several people injured and medical help needed and medical help needed,Medium,7.191429330036379
+Flood,295,roads are open and roads are open and limited supplies needed,Low,5.69035945432406
+Other,15564,some houses damaged and thousands homeless and thousands homeless,High,9.652780082875708
+Flood,848,roads partly blocked and several people injured and roads partly blocked,Medium,6.744059186311348
+Earthquake,160,limited supplies needed and few families need support and small area affected,Low,5.081404364984463
+Other,1440,many families displaced and several people injured and medical help needed,Medium,7.273092595999522
+Other,6910,hospital overwhelmed and some houses damaged and urgent rescue needed,High,8.840869624091395
+Fire,14230,many families displaced and children trapped and houses collapsed,High,9.56317796268366
+Other,2151,shortage of food and water and several people injured and many families displaced,Medium,7.674152921281675
+Other,398,few families need support and minor damage and minor damage,Low,5.988961416889864
+Other,79,situation under control and minor damage and situation under control,Low,4.382026634673881
+Other,465,limited supplies needed and small area affected and medical help needed,Low,6.144185634125646
+Other,1371,several people injured and no food or water and many deaths reported,Medium,7.22402480828583
+Other,4152,children trapped and urgent rescue needed and houses collapsed,High,8.331586243630754
+Earthquake,2994,several people injured and medical help needed and no food or water,Medium,8.00469951054955
+Medical,17411,children trapped and thousands homeless and roads destroyed,High,9.764914902672189
+Fire,85,roads partly blocked and minor damage and minor damage,Low,4.454347296253507
+Fire,11843,some houses damaged and hospital overwhelmed and urgent rescue needed,High,9.379576689221482
+Earthquake,299,roads partly blocked and roads are open and roads are open,Low,5.703782474656201
+Medical,2733,houses collapsed and some houses damaged and many families displaced,Medium,7.913521017283895
+Medical,1268,many families displaced and urgent rescue needed and several people injured,Medium,7.1459844677143876
+Earthquake,510,roads partly blocked and limited supplies needed and minor damage,Low,6.236369590203704
+Flood,1904,roads partly blocked and roads partly blocked and shortage of food and water,Medium,7.552237287560802
+Other,370,thousands homeless and several people injured and medical help needed,Medium,5.916202062607435
+Earthquake,287,many families displaced and shortage of food and water and medical help needed,Medium,5.662960480135946
+Other,1592,many deaths reported and roads destroyed and roads destroyed,High,7.373374309910049
+Medical,19007,medical help needed and roads partly blocked and urgent rescue needed,High,9.852615222162372
+Earthquake,1605,many families displaced and many families displaced and shortage of food and water,Medium,7.381501894506707
+Other,2396,many families displaced and shortage of food and water and many families displaced,Medium,7.781973234434385
+Earthquake,454,many families displaced and roads are open and small area affected,Low,6.12029741895095
+Earthquake,2682,several people injured and houses collapsed and no food or water,Medium,7.894690850425624
+Other,1662,shortage of food and water and some houses damaged and roads partly blocked,Medium,7.416378479192928
+Other,1200,some houses damaged and roads partly blocked and many families displaced,Medium,7.0909098220799835
+Medical,2747,many families displaced and shortage of food and water and roads partly blocked,Medium,7.91862865334224
+Hunger,571,situation under control and small area affected and shortage of food and water,Low,6.349138991379798
+Medical,15868,many deaths reported and many deaths reported and roads destroyed,High,9.672122799562842
+Flood,444,roads partly blocked and many families displaced and medical help needed,Medium,6.09807428216624
+Flood,1119,shortage of food and water and roads partly blocked and hospital overwhelmed,Medium,7.02108396428914
+Fire,361,roads are open and situation under control and situation under control,Low,5.8916442118257715
+Earthquake,1896,roads destroyed and many deaths reported and roads destroyed,High,7.5480289699350145
+Other,10418,thousands homeless and hospital overwhelmed and medical help needed,High,9.251386341412184
+Other,1175,many deaths reported and several people injured and many families displaced,Medium,7.069874128458572
+Fire,307,few families need support and some houses damaged and limited supplies needed,Low,5.730099782973574
+Other,2690,hospital overwhelmed and some houses damaged and shortage of food and water,Medium,7.897668150726906
+Medical,270,medical help needed and urgent rescue needed and roads partly blocked,Medium,5.602118820879701
+Medical,64,minor damage and roads are open and minor damage,Low,4.174387269895637
+Earthquake,1256,some houses damaged and medical help needed and children trapped,Medium,7.136483208590247
+Fire,55,limited supplies needed and several people injured and few families need support,Low,4.02535169073515
+Hunger,2374,no food or water and several people injured and hospital overwhelmed,High,7.772752716468742
+Other,366,minor damage and situation under control and roads partly blocked,Low,5.905361848054571
+Flood,2293,no food or water and some houses damaged and several people injured,Medium,7.738052297689316
+Flood,2829,some houses damaged and urgent rescue needed and some houses damaged,Medium,7.948031990637284
+Medical,2870,some houses damaged and shortage of food and water and some houses damaged,Medium,7.962415680121064
+Fire,31,shortage of food and water and roads are open and limited supplies needed,Low,3.4657359027997265
+Fire,12273,roads destroyed and many deaths reported and children trapped,High,9.415238482949043
+Other,521,shortage of food and water and roads partly blocked and several people injured,Medium,6.257667587882639
+Fire,696,roads partly blocked and roads partly blocked and roads partly blocked,Medium,6.546785410760524
+Medical,11385,hospital overwhelmed and urgent rescue needed and urgent rescue needed,High,9.340139809511028
+Medical,327,minor damage and few families need support and few families need support,Low,5.793013608384144
+Flood,1641,many families displaced and several people injured and shortage of food and water,Medium,7.403670290012373
+Medical,1141,shortage of food and water and shortage of food and water and medical help needed,Medium,7.040536390215956
+Fire,5526,hospital overwhelmed and houses collapsed and medical help needed,High,8.617400451833262
+Earthquake,19874,no food or water and thousands homeless and many families displaced,High,9.897217939522532
+Hunger,2471,medical help needed and shortage of food and water and medical help needed,Medium,7.812782818577581
+Other,175,small area affected and roads are open and few families need support,Low,5.170483995038151
+Earthquake,1847,shortage of food and water and many families displaced and some houses damaged,Medium,7.521859252201629
+Fire,4531,many deaths reported and some houses damaged and roads destroyed,High,8.418918622147897
+Medical,15276,thousands homeless and children trapped and houses collapsed,High,9.634103708365723
+Flood,383,few families need support and few families need support and several people injured,Low,5.950642552587727
+Hunger,4175,thousands homeless and roads destroyed and roads destroyed,High,8.337109129562474
+Earthquake,786,no food or water and some houses damaged and roads partly blocked,Medium,6.668228248417403
+Flood,1622,many families displaced and medical help needed and shortage of food and water,Medium,7.392031567514591
+Hunger,2682,shortage of food and water and shortage of food and water and children trapped,Medium,7.894690850425624
+Fire,45,roads are open and small area affected and many families displaced,Low,3.828641396489095
+Earthquake,1354,roads partly blocked and medical help needed and medical help needed,Medium,7.2115567333138015
+Flood,691,medical help needed and many families displaced and some houses damaged,Medium,6.539585955617669
+Other,4816,houses collapsed and no food or water and urgent rescue needed,High,8.479906606630221
+Fire,348,limited supplies needed and limited supplies needed and limited supplies needed,Low,5.855071922202427
+Hunger,2256,urgent rescue needed and roads partly blocked and many deaths reported,High,7.721791776817535
+Other,1261,roads destroyed and no food or water and hospital overwhelmed,High,7.140453043101158
+Earthquake,2184,several people injured and shortage of food and water and houses collapsed,Medium,7.68937110752969
+Other,8018,many families displaced and no food or water and many deaths reported,High,8.989569004807029
+Other,1277,several people injured and several people injured and roads partly blocked,Medium,7.15305163493748
+Earthquake,10833,hospital overwhelmed and thousands homeless and roads destroyed,High,9.290444616217844
+Hunger,18806,houses collapsed and hospital overwhelmed and thousands homeless,High,9.841984419942078
+Earthquake,2913,shortage of food and water and some houses damaged and some houses damaged,Medium,7.97728198675515
+Medical,5196,thousands homeless and thousands homeless and no food or water,High,8.555836815008442
+Hunger,279,few families need support and some houses damaged and situation under control,Low,5.634789603169249
+Medical,2010,some houses damaged and some houses damaged and shortage of food and water,Medium,7.606387389772652
+Other,386,medical help needed and shortage of food and water and several people injured,Medium,5.958424693029782
+Fire,342,roads partly blocked and several people injured and medical help needed,Low,5.8377304471659395
+Other,346,roads are open and many families displaced and situation under control,Low,5.849324779946859
+Earthquake,6144,roads destroyed and no food or water and children trapped,High,8.723394022000136
+Hunger,1893,several people injured and many families displaced and many deaths reported,Medium,7.546446273746024
+Flood,17433,thousands homeless and some houses damaged and no food or water,High,9.76617760157152
+Other,9103,several people injured and medical help needed and children trapped,High,9.116469156366112
+Hunger,3782,roads partly blocked and roads destroyed and several people injured,High,8.23827262463303
+Fire,5975,roads partly blocked and no food or water and hospital overwhelmed,High,8.695506726812653
+Medical,2298,some houses damaged and shortage of food and water and thousands homeless,Medium,7.740229524763182
+Hunger,1959,roads destroyed and medical help needed and several people injured,Medium,7.580699752224563
+Fire,9015,thousands homeless and urgent rescue needed and houses collapsed,High,9.106756055719613
+Earthquake,2566,medical help needed and medical help needed and roads partly blocked,Medium,7.8504931808711405
+Other,323,limited supplies needed and minor damage and small area affected,Low,5.780743515792329
+Fire,1223,roads destroyed and medical help needed and roads partly blocked,Medium,7.1098794630722715
+Flood,510,situation under control and small area affected and several people injured,Low,6.236369590203704
+Fire,14321,hospital overwhelmed and thousands homeless and urgent rescue needed,High,9.569552095566886
+Earthquake,11545,thousands homeless and houses collapsed and roads destroyed,High,9.354094335620879
+Flood,13310,many families displaced and several people injured and shortage of food and water,High,9.496346040047019
+Flood,359,medical help needed and thousands homeless and roads destroyed,Medium,5.886104031450156
+Flood,1415,hospital overwhelmed and several people injured and some houses damaged,Medium,7.255591274253665
+Hunger,19474,children trapped and no food or water and urgent rescue needed,High,9.876886870738948
+Fire,9232,no food or water and children trapped and several people injured,High,9.130539301772627
+Flood,1501,shortage of food and water and many families displaced and shortage of food and water,Medium,7.31455283232408
+Other,101,situation under control and roads partly blocked and small area affected,Low,4.624972813284271
+Hunger,577,situation under control and small area affected and few families need support,Low,6.359573868672378
+Other,11018,roads destroyed and no food or water and shortage of food and water,High,9.307376334487778
+Other,226,situation under control and small area affected and roads are open,Low,5.424950017481403
+Medical,11818,hospital overwhelmed and thousands homeless and many deaths reported,High,9.377463685012241
+Earthquake,98,roads are open and shortage of food and water and minor damage,Low,4.59511985013459
+Flood,413,thousands homeless and medical help needed and roads partly blocked,Medium,6.025865973825314
+Earthquake,578,few families need support and situation under control and roads are open,Low,6.361302477572996
+Fire,520,shortage of food and water and several people injured and several people injured,Medium,6.255750041753367
+Medical,578,limited supplies needed and limited supplies needed and medical help needed,Low,6.361302477572996
+Hunger,6833,some houses damaged and urgent rescue needed and no food or water,High,8.829665432675236
+Fire,7258,children trapped and many deaths reported and some houses damaged,High,8.889997357284841
+Earthquake,1183,urgent rescue needed and some houses damaged and many deaths reported,High,7.076653815443951
+Hunger,2098,thousands homeless and hospital overwhelmed and many deaths reported,High,7.649216319820633
+Flood,16427,thousands homeless and thousands homeless and houses collapsed,High,9.70674247507645
+Hunger,34,limited supplies needed and several people injured and shortage of food and water,Low,3.5553480614894135
+Medical,127,several people injured and situation under control and roads partly blocked,Low,4.852030263919617
+Earthquake,2883,many families displaced and several people injured and some houses damaged,Medium,7.96693349840484
+Earthquake,13001,roads destroyed and many deaths reported and roads partly blocked,High,9.472858470764415
+Other,278,medical help needed and roads partly blocked and roads partly blocked,Low,5.631211781821365
+Earthquake,2802,many families displaced and roads partly blocked and some houses damaged,Medium,7.938445551164788
+Fire,552,medical help needed and houses collapsed and houses collapsed,Medium,6.315358001522335
+Hunger,25,minor damage and situation under control and limited supplies needed,Low,3.258096538021482
+Hunger,200,limited supplies needed and many families displaced and situation under control,Low,5.303304908059076
+Hunger,148,few families need support and small area affected and small area affected,Low,5.003946305945459
+Hunger,270,situation under control and some houses damaged and situation under control,Low,5.602118820879701
+Fire,15734,children trapped and roads partly blocked and no food or water,High,9.663642809498507
+Medical,12367,hospital overwhelmed and hospital overwhelmed and shortage of food and water,High,9.422867770827203
+Earthquake,2115,many families displaced and several people injured and children trapped,Medium,7.65728279297819
+Fire,1522,medical help needed and many families displaced and many families displaced,Medium,7.328437352895162
+Hunger,1258,medical help needed and houses collapsed and some houses damaged,High,7.138073034044347
+Earthquake,2112,many families displaced and roads partly blocked and roads partly blocked,Medium,7.655864017616056
+Medical,14085,no food or water and urgent rescue needed and thousands homeless,High,9.552936675305356
+Medical,10836,shortage of food and water and houses collapsed and hospital overwhelmed,High,9.290721483922995
+Medical,1935,shortage of food and water and no food or water and children trapped,High,7.568379267836522
+Other,346,minor damage and situation under control and small area affected,Low,5.849324779946859
+Medical,1821,many deaths reported and shortage of food and water and some houses damaged,Medium,7.507690077819904
+Flood,956,shortage of food and water and several people injured and several people injured,Medium,6.863803391452954
+Hunger,1162,urgent rescue needed and roads partly blocked and no food or water,High,7.0587581525186645
+Other,1741,several people injured and many families displaced and some houses damaged,Medium,7.462789157412448
+Medical,339,limited supplies needed and few families need support and roads are open,Low,5.8289456176102075
+Hunger,505,roads are open and roads partly blocked and shortage of food and water,Low,6.226536669287466
+Hunger,1592,many families displaced and medical help needed and several people injured,Medium,7.373374309910049
+Earthquake,516,shortage of food and water and minor damage and limited supplies needed,Low,6.248042874508429
+Medical,159,few families need support and few families need support and medical help needed,Low,5.075173815233827
+Earthquake,412,minor damage and minor damage and limited supplies needed,Low,6.023447592961033
+Other,419,minor damage and shortage of food and water and few families need support,Low,6.040254711277414
+Medical,1379,roads destroyed and many deaths reported and hospital overwhelmed,High,7.22983877815125
+Other,4799,thousands homeless and thousands homeless and urgent rescue needed,High,8.476371196895983
+Earthquake,439,few families need support and minor damage and some houses damaged,Low,6.0867747269123065
+Fire,9448,roads partly blocked and thousands homeless and thousands homeless,High,9.153664194782626
+Flood,697,medical help needed and roads partly blocked and some houses damaged,Medium,6.548219102762372
+Hunger,2964,many families displaced and shortage of food and water and medical help needed,Medium,7.994632311431825
+Medical,337,minor damage and situation under control and roads are open,Low,5.823045895483019
+Medical,9147,roads partly blocked and several people injured and medical help needed,High,9.121290555142672
+Hunger,1614,several people injured and several people injured and roads partly blocked,Medium,7.387090235656757
+Flood,513,many families displaced and houses collapsed and several people injured,Medium,6.2422232654551655
+Hunger,314,minor damage and several people injured and limited supplies needed,Low,5.752572638825633
+Flood,15202,no food or water and hospital overwhelmed and no food or water,High,9.629248055780836
+Flood,13262,no food or water and roads destroyed and children trapped,High,9.492733482494353
+Fire,2950,roads destroyed and several people injured and many families displaced,Medium,7.989899374942939
+Earthquake,276,several people injured and hospital overwhelmed and several people injured,Medium,5.6240175061873385
+Flood,1106,several people injured and many families displaced and several people injured,Medium,7.009408932708637
+Fire,16094,urgent rescue needed and thousands homeless and many deaths reported,High,9.686263943732909
+Hunger,1509,medical help needed and thousands homeless and several people injured,Medium,7.31986492980897
+Other,404,minor damage and roads are open and limited supplies needed,Low,6.003887067106539
+Fire,1614,urgent rescue needed and some houses damaged and medical help needed,Medium,7.387090235656757

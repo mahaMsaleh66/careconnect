@@ -15,7 +15,8 @@ app.use('/api/tasks', require('./routes/tasks'));
 app.use('/api/news', require('./routes/news'));
 app.use('/api/reports', require('./routes/reports'));
 app.use('/api/feedback', require('./routes/feedback'));
-
+app.use('/api/users', require('./routes/users'));
+app.use('/api/dashboard', require('./routes/dashboard'));
 app.get('/', (req, res) => {
   res.send('CareConnect API is running');
 });

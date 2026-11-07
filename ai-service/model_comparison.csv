@@ -1,0 +1,13 @@
+Task,Model,Accuracy,Precision,Recall,F1,CV F1 (5-fold)
+Crisis severity,Logistic Regression,0.96,0.961,0.96,0.96,0.968
+Crisis severity,Linear SVM,0.96,0.961,0.96,0.96,0.97
+Crisis severity,Random Forest,0.973,0.973,0.973,0.973,0.977
+Request need type,Logistic Regression,1.0,1.0,1.0,1.0,1.0
+Request need type,Linear SVM,1.0,1.0,1.0,1.0,1.0
+Request need type,Naive Bayes,0.996,0.996,0.996,0.996,0.995
+Request urgency,Logistic Regression,0.95,0.95,0.95,0.95,0.95
+Request urgency,Linear SVM,0.95,0.95,0.95,0.95,0.95
+Request urgency,Naive Bayes,0.921,0.922,0.921,0.92,0.917
+News classification,Logistic Regression,0.972,0.973,0.972,0.972,0.965
+News classification,Linear SVM,0.972,0.973,0.972,0.972,0.965
+News classification,Naive Bayes,0.972,0.973,0.972,0.972,0.965

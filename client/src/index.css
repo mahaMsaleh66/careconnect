@@ -4,6 +4,8 @@ body {
   background: #f0f4f8;
   color: #222;
 }
+
+/* Login and register */
 .auth-box {
   max-width: 380px;
   margin: 60px auto;
@@ -34,6 +36,7 @@ body {
 }
 .error { color: #b91c1c; text-align: center; }
 
+/* Layout and sidebar */
 .layout { display: flex; min-height: 100vh; }
 .sidebar {
   width: 220px;
@@ -67,6 +70,8 @@ body {
   font-size: 15px;
 }
 .content { flex: 1; padding: 28px; overflow-x: auto; }
+
+/* Cards, forms and buttons */
 .card {
   background: white;
   border-radius: 12px;
@@ -102,6 +107,8 @@ body {
 }
 .btn.small { padding: 6px 12px; font-size: 13px; }
 .info { color: #0f766e; font-weight: bold; }
+
+/* Tables and badges */
 .table-wrap { overflow-x: auto; }
 table { width: 100%; border-collapse: collapse; }
 th, td { text-align: left; padding: 10px; border-bottom: 1px solid #e5e7eb; }
@@ -109,12 +116,15 @@ th, td { text-align: left; padding: 10px; border-bottom: 1px solid #e5e7eb; }
 .badge.Low { background: #16a34a; }
 .badge.Medium { background: #d97706; }
 .badge.High { background: #dc2626; }
+
+/* Receipt and printing */
 .receipt { border: 2px dashed #0f766e; max-width: 460px; }
 @media print {
   .sidebar, .no-print { display: none !important; }
   .content { padding: 0; }
 }
 
+/* Reports */
 .stats {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
@@ -125,4 +135,27 @@ th, td { text-align: left; padding: 10px; border-bottom: 1px solid #e5e7eb; }
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(380px, 1fr));
   gap: 16px;
+}
+
+/* Phones and tablets */
+@media (max-width: 800px) {
+  .layout { flex-direction: column; }
+  .sidebar {
+    width: 100%;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    padding: 10px;
+    box-sizing: border-box;
+  }
+  .sidebar h2 { width: 100%; margin: 0 0 4px; }
+  .sidebar .user-info { width: 100%; padding: 0 12px 8px; }
+  .sidebar a { padding: 8px 12px; font-size: 14px; }
+  .sidebar button { margin: 8px 12px 0; padding: 8px 14px; }
+  .content { padding: 16px; }
+  .form-grid { grid-template-columns: 1fr; }
+  .charts { grid-template-columns: 1fr; }
+  .stats { grid-template-columns: 1fr 1fr; }
+  .auth-box { margin: 24px 16px; }
+  .big-number { font-size: 30px; }
 }

@@ -6,6 +6,7 @@ const common = [
   { to: '/dashboard/crises', label: 'Crises' },
   { to: '/dashboard/news', label: 'News' },
   { to: '/dashboard/feedback', label: 'Feedback' },
+  { to: '/dashboard/account', label: 'My Account' },
 ];
 
 const menus = {
@@ -14,12 +15,13 @@ const menus = {
     { to: '/dashboard/donations', label: 'Donations' },
     { to: '/dashboard/requests', label: 'Help Requests' },
     { to: '/dashboard/tasks', label: 'Assign Tasks' },
+    { to: '/dashboard/users', label: 'Users' },
     { to: '/dashboard/reports', label: 'Reports' },
   ],
   donor: [...common, { to: '/dashboard/donations', label: 'Donations' }],
   volunteer: [
     ...common,
-    { to: '/dashboard/profile', label: 'My Profile' },
+    { to: '/dashboard/profile', label: 'Skills Profile' },
     { to: '/dashboard/tasks', label: 'My Tasks' },
   ],
   needy: [...common, { to: '/dashboard/requests', label: 'Help Requests' }],

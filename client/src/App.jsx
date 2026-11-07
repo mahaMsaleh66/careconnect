@@ -12,6 +12,8 @@ import Tasks from './pages/Tasks';
 import News from './pages/News';
 import Reports from './pages/Reports';
 import Feedback from './pages/Feedback';
+import Account from './pages/Account';
+import Users from './pages/Users';
 
 function Protected({ children }) {
   const { user } = useAuth();
@@ -42,6 +44,8 @@ export default function App() {
             <Route path="news" element={<News />} />
             <Route path="reports" element={<Reports />} />
             <Route path="feedback" element={<Feedback />} />
+            <Route path="account" element={<Account />} />
+            <Route path="users" element={<Users />} />
           </Route>
           <Route path="*" element={<Navigate to="/login" />} />
         </Routes>

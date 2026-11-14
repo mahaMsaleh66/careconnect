@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import { useNavigate, Link } from 'react-router-dom';
+import { Heart, ArrowLeft } from 'lucide-react';
 import api from '../api';
 import { useAuth } from '../AuthContext';
 
@@ -23,17 +24,22 @@ export default function Login() {
   };
 
   return (
-    <div className="auth-box">
-      <h2>CareConnect Login</h2>
-      {error && <p className="error">{error}</p>}
-      <form onSubmit={handleSubmit}>
-        <input type="email" placeholder="Email" value={email}
-          onChange={(e) => setEmail(e.target.value)} required />
-        <input type="password" placeholder="Password" value={password}
-          onChange={(e) => setPassword(e.target.value)} required />
-        <button type="submit">Login</button>
-      </form>
-      <p>No account? <Link to="/register">Register here</Link></p>
+    <div className="auth-page">
+      <Link to="/" className="auth-back"><ArrowLeft size={16} /> Back to home</Link>
+      <div className="auth-box">
+        <div className="auth-logo"><Heart size={22} /></div>
+        <h2>Welcome back</h2>
+        <p className="auth-sub">Log in to your CareConnect account</p>
+        {error && <p className="error">{error}</p>}
+        <form onSubmit={handleSubmit}>
+          <input type="email" placeholder="Email" value={email}
+            onChange={(e) => setEmail(e.target.value)} required />
+          <input type="password" placeholder="Password" value={password}
+            onChange={(e) => setPassword(e.target.value)} required />
+          <button type="submit">Login</button>
+        </form>
+        <p>No account? <Link to="/register">Register here</Link></p>
+      </div>
     </div>
   );
 }

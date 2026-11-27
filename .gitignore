@@ -4,3 +4,5 @@ dist/
 ai-service/venv/
 __pycache__/
 *.pyc
+server/uploads/*
+!server/uploads/.gitkeep

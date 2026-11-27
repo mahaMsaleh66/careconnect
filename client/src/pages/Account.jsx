@@ -7,6 +7,7 @@ export default function Account() {
   const [form, setForm] = useState({ name: '', phone: '', city: '' });
   const [pw, setPw] = useState({ current_password: '', new_password: '' });
   const [email, setEmail] = useState('');
+  const [hasPassword, setHasPassword] = useState(true);
   const [msg, setMsg] = useState('');
   const [pwMsg, setPwMsg] = useState('');
 
@@ -18,6 +19,7 @@ export default function Account() {
         city: res.data.city || '',
       });
       setEmail(res.data.email);
+      setHasPassword(res.data.has_password !== false);
     });
   }, []);
 
@@ -67,6 +69,10 @@ export default function Account() {
       <div className="card">
         <h3>Change Password</h3>
         {pwMsg && <p className="info">{pwMsg}</p>}
+        {!hasPassword && (
+          <p>This account uses Google Sign-In, so there is no password to change.</p>
+        )}
+        {hasPassword && (
         <form onSubmit={savePassword}>
           <div className="form-grid">
             <input name="current_password" type="password" placeholder="Current password" value={pw.current_password} onChange={changePw} required />
@@ -74,6 +80,7 @@ export default function Account() {
           </div>
           <button type="submit" className="btn">Change Password</button>
         </form>
+        )}
       </div>
     </div>
   );

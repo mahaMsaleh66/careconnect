@@ -70,6 +70,10 @@ def match_volunteers():
             'city': v.get('city') or '',
             'availability': v.get('availability') or 'Available',
             'score': round(score * 100, 1),
+            'city_match': bool(city_match),
+            'skill_match': float(sim) >= 0.12,
+            'ready': bool(available),
+            'active_tasks': int(v.get('active_tasks') or 0),
         })
 
     results.sort(key=lambda r: r['score'], reverse=True)

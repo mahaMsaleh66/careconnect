@@ -32,6 +32,11 @@ router.put('/me/password', verifyToken, async (req, res) => {
       return res.status(400).json({ message: 'New password must be at least 6 characters' });
     }
     const [rows] = await db.query('SELECT password FROM users WHERE id = ?', [req.user.id]);
+    if (!rows[0] || !rows[0].password) {
+      return res.status(400).json({
+        message: 'This account uses Google Sign-In. There is no password to change.',
+      });
+    }
     const match = await bcrypt.compare(current_password || '', rows[0].password);
     if (!match) {
       return res.status(400).json({ message: 'Current password is wrong' });
@@ -48,9 +53,64 @@ router.put('/me/password', verifyToken, async (req, res) => {
 router.get('/', verifyToken, allowRoles('admin'), async (req, res) => {
   try {
     const [rows] = await db.query(
-      'SELECT id, name, email, phone, city, role, created_at FROM users ORDER BY created_at DESC'
+      'SELECT id, name, email, phone, city, role, is_active, created_at FROM users ORDER BY created_at DESC'
     );
     res.json(rows);
+  } catch (err) {
+    res.status(500).json({ message: err.message });
+  }
+});
+
+const ALLOWED_ROLES = ['admin', 'donor', 'volunteer', 'needy'];
+
+// Admin: change a user's role
+router.put('/:id/role', verifyToken, allowRoles('admin'), async (req, res) => {
+  try {
+    const id = Number(req.params.id);
+    const { role } = req.body;
+    if (!ALLOWED_ROLES.includes(role)) {
+      return res.status(400).json({ message: 'Invalid role' });
+    }
+    if (id === req.user.id) {
+      return res.status(400).json({ message: 'You cannot change your own role' });
+    }
+    const [target] = await db.query('SELECT id, city FROM users WHERE id = ?', [id]);
+    if (target.length === 0) {
+      return res.status(404).json({ message: 'User not found' });
+    }
+    await db.query('UPDATE users SET role = ? WHERE id = ?', [role, id]);
+    if (role === 'volunteer') {
+      await db.query(
+        'INSERT IGNORE INTO volunteer_profiles (user_id, city) VALUES (?, ?)',
+        [id, target[0].city || null]
+      );
+    }
+    res.json({ message: 'Role updated' });
+  } catch (err) {
+    res.status(500).json({ message: err.message });
+  }
+});
+
+// Admin: activate or deactivate a user
+router.put('/:id/status', verifyToken, allowRoles('admin'), async (req, res) => {
+  try {
+    const id = Number(req.params.id);
+    const raw = req.body.is_active;
+    let isActive;
+    if (raw === true || raw === 1 || raw === '1') isActive = 1;
+    else if (raw === false || raw === 0 || raw === '0') isActive = 0;
+    else {
+      return res.status(400).json({ message: 'is_active must be 0 or 1' });
+    }
+    if (id === req.user.id && isActive === 0) {
+      return res.status(400).json({ message: 'You cannot deactivate your own account' });
+    }
+    const [target] = await db.query('SELECT id FROM users WHERE id = ?', [id]);
+    if (target.length === 0) {
+      return res.status(404).json({ message: 'User not found' });
+    }
+    await db.query('UPDATE users SET is_active = ? WHERE id = ?', [isActive, id]);
+    res.json({ message: isActive ? 'User activated' : 'User deactivated' });
   } catch (err) {
     res.status(500).json({ message: err.message });
   }

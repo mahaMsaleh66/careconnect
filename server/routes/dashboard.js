@@ -54,4 +54,34 @@ router.get('/stats', verifyToken, async (req, res) => {
   }
 });
 
+router.get('/transparency', verifyToken, async (req, res) => {
+  try {
+    const [[totals]] = await db.query(
+      'SELECT COALESCE(SUM(amount), 0) AS total_amount, COUNT(*) AS donation_count FROM donations'
+    );
+    const [byCategory] = await db.query(
+      'SELECT category, COALESCE(SUM(amount), 0) AS amount, COUNT(*) AS n FROM donations GROUP BY category ORDER BY amount DESC'
+    );
+    const [[reqOpen]] = await db.query(
+      "SELECT COUNT(*) AS c FROM help_requests WHERE status IN ('Pending', 'Assigned')"
+    );
+    const [[reqDone]] = await db.query(
+      "SELECT COUNT(*) AS c FROM help_requests WHERE status IN ('Completed', 'Rejected')"
+    );
+    const [[taskActive]] = await db.query(
+      "SELECT COUNT(*) AS c FROM tasks WHERE status IN ('Assigned', 'In Progress')"
+    );
+    const [[taskDone]] = await db.query("SELECT COUNT(*) AS c FROM tasks WHERE status = 'Done'");
+    res.json({
+      total_amount: Number(totals.total_amount) || 0,
+      donation_count: totals.donation_count || 0,
+      by_category: byCategory,
+      requests: { open: reqOpen.c, resolved: reqDone.c },
+      tasks: { active: taskActive.c, done: taskDone.c },
+    });
+  } catch (err) {
+    res.status(500).json({ message: err.message });
+  }
+});
+
 module.exports = router;

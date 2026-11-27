@@ -6,6 +6,7 @@ import { useAuth } from '../AuthContext';
 import { useLanguage } from '../LanguageContext';
 import GoogleSignIn from '../components/GoogleSignIn';
 import LanguageToggle from '../components/LanguageToggle';
+import PasswordInput from '../components/PasswordInput';
 
 export default function Login() {
   const [email, setEmail] = useState('');
@@ -18,8 +19,13 @@ export default function Login() {
   const handleSubmit = async (e) => {
     e.preventDefault();
     setError('');
+    const form = new FormData(e.currentTarget);
+    const nextEmail = String(form.get('email') || email || '').trim();
+    const nextPassword = String(form.get('password') || password || '');
+    setEmail(nextEmail);
+    setPassword(nextPassword);
     try {
-      const res = await api.post('/auth/login', { email, password });
+      const res = await api.post('/auth/login', { email: nextEmail, password: nextPassword });
       login(res.data.token, res.data.user);
       navigate('/dashboard');
     } catch (err) {
@@ -39,10 +45,23 @@ export default function Login() {
         <p className="auth-sub">{t('auth.loginSub')}</p>
         {error && <p className="error">{error}</p>}
         <form onSubmit={handleSubmit}>
-          <input type="email" placeholder={t('auth.email')} value={email}
-            onChange={(e) => setEmail(e.target.value)} required />
-          <input type="password" placeholder={t('auth.password')} value={password}
-            onChange={(e) => setPassword(e.target.value)} required />
+          <input
+            name="email"
+            type="email"
+            autoComplete="email"
+            placeholder={t('auth.email')}
+            value={email}
+            onChange={(e) => setEmail(e.target.value)}
+            required
+          />
+          <PasswordInput
+            name="password"
+            autoComplete="current-password"
+            placeholder={t('auth.password')}
+            value={password}
+            onChange={(e) => setPassword(e.target.value)}
+            required
+          />
           <button type="submit">{t('auth.loginBtn')}</button>
         </form>
         <GoogleSignIn

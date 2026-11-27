@@ -59,6 +59,49 @@ a { color: var(--primary-dark); }
   border-color: var(--navy);
   box-shadow: 0 0 0 3px rgba(19, 42, 70, 0.12);
 }
+.password-field {
+  position: relative;
+  width: 100%;
+}
+.auth-box .password-field { margin-bottom: 12px; }
+.auth-box .password-field input,
+.card .password-field input {
+  padding-inline-end: 44px;
+  margin-bottom: 0;
+}
+.password-toggle,
+.auth-box button.password-toggle {
+  position: absolute;
+  top: 50%;
+  inset-inline-end: 6px;
+  transform: translateY(-50%);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  padding: 0;
+  margin: 0;
+  border: none;
+  border-radius: 8px;
+  background: transparent;
+  color: var(--muted);
+  box-shadow: none;
+  font-size: inherit;
+  font-weight: 500;
+  line-height: 1;
+  cursor: pointer;
+}
+.password-toggle:hover,
+.auth-box button.password-toggle:hover {
+  color: var(--navy);
+  background: var(--primary-soft);
+}
+.password-toggle:focus-visible,
+.auth-box button.password-toggle:focus-visible {
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(19, 42, 70, 0.12);
+}
 .auth-box button {
   width: 100%;
   padding: 12px;

@@ -8,6 +8,29 @@ const { verifyToken, DEACTIVATED_MESSAGE } = require('../middleware/auth');
 const router = express.Router();
 const PUBLIC_ROLES = ['donor', 'volunteer', 'needy'];
 
+function normalizeEmail(value) {
+  return String(value || '').trim().toLowerCase();
+}
+
+function asPassword(value) {
+  if (value == null) return '';
+  return typeof value === 'string' ? value : String(value);
+}
+
+function asHash(value) {
+  if (value == null) return '';
+  if (Buffer.isBuffer(value)) return value.toString('utf8').trim();
+  return String(value).trim();
+}
+
+async function findUserByEmail(email) {
+  const [rows] = await db.query(
+    'SELECT * FROM users WHERE LOWER(TRIM(email)) = ? LIMIT 1',
+    [email]
+  );
+  return rows[0] || null;
+}
+
 function signUser(user) {
   const token = jwt.sign(
     { id: user.id, role: user.role, name: user.name },
@@ -52,7 +75,12 @@ async function verifyGoogleCredential(credential) {
 // REGISTER
 router.post('/register', async (req, res) => {
   try {
-    const { name, email, password, phone, city, role } = req.body;
+    const name = String((req.body && req.body.name) || '').trim();
+    const email = normalizeEmail(req.body && req.body.email);
+    const password = asPassword(req.body && req.body.password);
+    const phone = req.body && req.body.phone;
+    const city = req.body && req.body.city;
+    const role = req.body && req.body.role;
 
     if (!name || !email || !password || !role) {
       return res.status(400).json({ message: 'Please fill all required fields' });
@@ -62,8 +90,8 @@ router.post('/register', async (req, res) => {
       return res.status(400).json({ message: 'Invalid role' });
     }
 
-    const [existing] = await db.query('SELECT id FROM users WHERE email = ?', [email]);
-    if (existing.length > 0) {
+    const existing = await findUserByEmail(email);
+    if (existing) {
       return res.status(400).json({ message: 'Email already registered' });
     }
 
@@ -86,21 +114,25 @@ router.post('/register', async (req, res) => {
 // LOGIN
 router.post('/login', async (req, res) => {
   try {
-    const { email, password } = req.body;
+    const email = normalizeEmail(req.body && req.body.email);
+    const password = asPassword(req.body && req.body.password);
 
-    const [rows] = await db.query('SELECT * FROM users WHERE email = ?', [email]);
-    if (rows.length === 0) {
+    if (!email || !password) {
       return res.status(400).json({ message: 'Invalid email or password' });
     }
 
-    const user = rows[0];
+    const user = await findUserByEmail(email);
+    if (!user) {
+      return res.status(400).json({ message: 'Invalid email or password' });
+    }
+
     if (!user.password) {
       return res.status(400).json({
         message: 'This account uses Google Sign-In. Please continue with Google.',
       });
     }
 
-    const match = await bcrypt.compare(password, user.password);
+    const match = await bcrypt.compare(password, asHash(user.password));
     if (!match) {
       return res.status(400).json({ message: 'Invalid email or password' });
     }
@@ -118,20 +150,20 @@ router.post('/login', async (req, res) => {
 // GOOGLE SIGN-IN
 router.post('/google', async (req, res) => {
   try {
-    const credential = req.body.credential;
+    const credential = req.body && req.body.credential;
     if (!credential) {
       return res.status(400).json({ message: 'Google credential is required' });
     }
 
     const profile = await verifyGoogleCredential(credential);
-    const role = PUBLIC_ROLES.includes(req.body.role) ? req.body.role : null;
+    profile.email = normalizeEmail(profile.email);
+    const role = PUBLIC_ROLES.includes(req.body && req.body.role) ? req.body.role : null;
 
     const [byGoogle] = await db.query('SELECT * FROM users WHERE google_id = ?', [profile.google_id]);
     let user = byGoogle[0];
 
     if (!user) {
-      const [byEmail] = await db.query('SELECT * FROM users WHERE email = ?', [profile.email]);
-      user = byEmail[0];
+      user = await findUserByEmail(profile.email);
       if (user && !user.google_id) {
         await db.query('UPDATE users SET google_id = ? WHERE id = ?', [profile.google_id, user.id]);
         user.google_id = profile.google_id;

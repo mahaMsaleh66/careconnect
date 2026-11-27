@@ -6,6 +6,7 @@ import { useAuth } from '../AuthContext';
 import { useLanguage } from '../LanguageContext';
 import GoogleSignIn from '../components/GoogleSignIn';
 import LanguageToggle from '../components/LanguageToggle';
+import PasswordInput from '../components/PasswordInput';
 
 export default function Register() {
   const [form, setForm] = useState({
@@ -44,7 +45,7 @@ export default function Register() {
         <form onSubmit={handleSubmit}>
           <input name="name" placeholder={t('auth.name')} onChange={change} required />
           <input name="email" type="email" placeholder={t('auth.email')} onChange={change} required />
-          <input name="password" type="password" placeholder={t('auth.password')} onChange={change} required />
+          <PasswordInput name="password" autoComplete="new-password" placeholder={t('auth.password')} onChange={change} required />
           <input name="phone" placeholder={t('auth.phone')} onChange={change} />
           <input name="city" placeholder={t('auth.city')} onChange={change} />
           <select name="role" value={form.role} onChange={change}>

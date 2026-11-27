@@ -2,7 +2,7 @@
 -- Safe to run on an existing database (CREATE TABLE IF NOT EXISTS).
 
 CREATE TABLE IF NOT EXISTS payment_accounts (
-  id INT UNSIGNED NOT NULL AUTO_INCREMENT,
+  id INT NOT NULL AUTO_INCREMENT,
   method ENUM('JazzCash', 'Easypaisa', 'Bank') NOT NULL,
   account_title VARCHAR(120) NOT NULL,
   account_number VARCHAR(80) NOT NULL,

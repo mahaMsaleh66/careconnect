@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react';
 import api from '../api';
 import { useAuth } from '../AuthContext';
+import PasswordInput from '../components/PasswordInput';
 
 export default function Account() {
   const { user, login } = useAuth();
@@ -75,8 +76,8 @@ export default function Account() {
         {hasPassword && (
         <form onSubmit={savePassword}>
           <div className="form-grid">
-            <input name="current_password" type="password" placeholder="Current password" value={pw.current_password} onChange={changePw} required />
-            <input name="new_password" type="password" placeholder="New password (min 6 characters)" value={pw.new_password} onChange={changePw} required />
+            <PasswordInput name="current_password" autoComplete="current-password" placeholder="Current password" value={pw.current_password} onChange={changePw} required />
+            <PasswordInput name="new_password" autoComplete="new-password" placeholder="New password (min 6 characters)" value={pw.new_password} onChange={changePw} required />
           </div>
           <button type="submit" className="btn">Change Password</button>
         </form>

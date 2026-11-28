@@ -5,7 +5,6 @@ const http = require('http');
 const express = require('express');
 const cors = require('cors');
 const db = require('./db');
-const { initSocket } = require('./socket');
 
 const app = express();
 const clientOrigins = (process.env.CLIENT_URL || 'http://localhost:5173')
@@ -22,9 +21,12 @@ app.use(
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
-const uploadsDir = path.join(__dirname, 'uploads');
+const uploadsDir = process.env.VERCEL
+  ? path.join('/tmp', 'uploads')
+  : path.join(__dirname, 'uploads');
 fs.mkdirSync(uploadsDir, { recursive: true });
 app.use('/uploads', express.static(uploadsDir));
+
 app.use('/api/auth', require('./routes/auth'));
 app.use('/api/crises', require('./routes/crises'));
 app.use('/api/donations', require('./routes/donations'));
@@ -39,6 +41,7 @@ app.use('/api/payment-accounts', require('./routes/paymentAccounts'));
 app.use('/api/dashboard', require('./routes/dashboard'));
 app.use('/api/translate', require('./routes/translate'));
 app.use('/api/flood', require('./routes/flood'));
+
 app.get('/', (req, res) => {
   res.send('CareConnect API is running');
 });
@@ -52,7 +55,12 @@ app.get('/api/test-db', async (req, res) => {
   }
 });
 
-const PORT = Number(process.env.PORT) || 5000;
-const httpServer = http.createServer(app);
-initSocket(httpServer);
-httpServer.listen(PORT, '0.0.0.0', () => console.log('Server running on port ' + PORT));
+if (!process.env.VERCEL) {
+  const { initSocket } = require('./socket');
+  const PORT = Number(process.env.PORT) || 5000;
+  const httpServer = http.createServer(app);
+  initSocket(httpServer);
+  httpServer.listen(PORT, '0.0.0.0', () => console.log('Server running on port ' + PORT));
+}
+
+module.exports = app;
